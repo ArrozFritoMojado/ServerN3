@@ -7499,3 +7499,18 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [13Jun2025 04:16:13.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vxrgas has made the advancement [Isn't It Iron Pick]
 [13Jun2025 04:16:18.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vxrgas has made the advancement [Ice Bucket Challenge]
 [13Jun2025 04:17:48.581] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of El_Vxrgas: {disabled=false, disconnected=false, uuid=ac4208ce-ee9f-3f5d-aeab-85e9718b53a7, name=El_Vxrgas, group=null}
+[13Jun2025 04:19:01.080] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jun2025 04:19:01.090] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jun2025 04:21:11.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <El_Vxrgas> me escuha?
+[13Jun2025 04:22:49.477] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Tabares10: {disabled=true, disconnected=false, uuid=d7a72fca-ece1-35f7-966f-e3be2ae0c5b0, name=Tabares10, group=null}
+[13Jun2025 04:22:50.278] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Tabares10: {disabled=false, disconnected=false, uuid=d7a72fca-ece1-35f7-966f-e3be2ae0c5b0, name=Tabares10, group=null}
+[13Jun2025 04:23:04.469] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of Tabares10: {disabled=false, disconnected=false, uuid=d7a72fca-ece1-35f7-966f-e3be2ae0c5b0, name=Tabares10, group=910fb7d3-eefa-4a55-9c2e-d3b6414164ba}
+[13Jun2025 04:23:11.183] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of Tabares10: {disabled=false, disconnected=false, uuid=d7a72fca-ece1-35f7-966f-e3be2ae0c5b0, name=Tabares10, group=null}
+[13Jun2025 04:23:18.434] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of Tabares10: {disabled=false, disconnected=false, uuid=d7a72fca-ece1-35f7-966f-e3be2ae0c5b0, name=Tabares10, group=4e7b126e-7034-4558-a6c8-d7df034bae2b}
+[13Jun2025 04:23:32.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <El_Vxrgas> nd?
+[13Jun2025 04:24:01.082] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jun2025 04:24:01.092] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jun2025 04:24:06.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <El_Vxrgas> como es la contraseña?
+[13Jun2025 04:24:10.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <El_Vxrgas> del grui?
+[13Jun2025 04:24:28.480] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of El_Vxrgas: {disabled=false, disconnected=false, uuid=ac4208ce-ee9f-3f5d-aeab-85e9718b53a7, name=El_Vxrgas, group=4e7b126e-7034-4558-a6c8-d7df034bae2b}
+[13Jun2025 04:25:13.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <El_Vxrgas> me escuha o no?
