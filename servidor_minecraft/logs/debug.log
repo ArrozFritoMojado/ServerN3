@@ -7487,3 +7487,15 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [13Jun2025 04:04:17.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vxrgas has made the advancement [Best Friends Forever]
 [13Jun2025 04:04:53.396] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zebra (vehicle of El_Vxrgas) moved wrongly! 0.2564653994168111
 [13Jun2025 04:04:53.445] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zebra (vehicle of El_Vxrgas) moved wrongly! 0.5263645515841375
+[13Jun2025 04:08:47.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vxrgas has made the advancement [Marketstead Village]
+[13Jun2025 04:08:56.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vxrgas has made the advancement [Acquire Hardware]
+[13Jun2025 04:09:01.081] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jun2025 04:09:01.091] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jun2025 04:11:24.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 has made the advancement [Surge Protector]
+[13Jun2025 04:11:24.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vxrgas has made the advancement [Surge Protector]
+[13Jun2025 04:12:21.136] [Server thread/DEBUG] [mixin/]: Mixing accessors.item.AccessorCooldownInstance from bookshelf.common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[13Jun2025 04:14:01.084] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jun2025 04:14:01.094] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jun2025 04:16:13.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vxrgas has made the advancement [Isn't It Iron Pick]
+[13Jun2025 04:16:18.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vxrgas has made the advancement [Ice Bucket Challenge]
+[13Jun2025 04:17:48.581] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of El_Vxrgas: {disabled=false, disconnected=false, uuid=ac4208ce-ee9f-3f5d-aeab-85e9718b53a7, name=El_Vxrgas, group=null}
