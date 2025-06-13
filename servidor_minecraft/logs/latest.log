@@ -385,3 +385,35 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [13Jun2025 03:41:23.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 left the game
 [13Jun2025 03:41:23.269] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d7a72fca-ece1-35f7-966f-e3be2ae0c5b0 was unloaded
 [13Jun2025 03:41:23.271] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Tabares10
+[13Jun2025 03:48:45.685] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tabares10[/100.104.164.80:59922] logged in with entity id 4334 at (117.3938050635246, 64.0, 463.0906400596628)
+[13Jun2025 03:48:45.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 joined the game
+[13Jun2025 03:48:46.434] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[13Jun2025 03:48:46.434] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id twilightforest:tiny_bird
+[13Jun2025 03:48:46.435] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[13Jun2025 03:48:46.435] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id twilightforest:tiny_bird
+[13Jun2025 03:48:46.491] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id twilightforest:tiny_bird
+[13Jun2025 03:48:46.492] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[13Jun2025 03:48:46.753] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Tabares10 (18)
+[13Jun2025 03:48:46.753] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Tabares10
+[13Jun2025 03:48:46.892] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d7a72fca-ece1-35f7-966f-e3be2ae0c5b0 was loaded
+[13Jun2025 03:48:46.892] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Tabares10]
+[13Jun2025 03:48:56.487] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d7a72fca-ece1-35f7-966f-e3be2ae0c5b0
+[13Jun2025 03:48:57.467] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d7a72fca-ece1-35f7-966f-e3be2ae0c5b0
+[13Jun2025 03:48:57.468] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Tabares10 (d7a72fca-ece1-35f7-966f-e3be2ae0c5b0) successfully connected to voice chat
+[13Jun2025 03:51:18.622] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: El_Vxrgas[/100.124.198.18:56221] logged in with entity id 4708 at (-1.5, 79.0, -1.5)
+[13Jun2025 03:51:18.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vxrgas joined the game
+[13Jun2025 03:51:18.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vxrgas has made the advancement [Critters n' Crawlers]
+[13Jun2025 03:51:20.937] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of El_Vxrgas (18)
+[13Jun2025 03:51:20.938] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to El_Vxrgas
+[13Jun2025 03:51:21.077] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 was loaded
+[13Jun2025 03:51:21.077] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [El_Vxrgas]
+[13Jun2025 03:51:28.452] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7
+[13Jun2025 03:51:29.454] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7
+[13Jun2025 03:51:29.455] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player El_Vxrgas (ac4208ce-ee9f-3f5d-aeab-85e9718b53a7) successfully connected to voice chat
+[13Jun2025 03:55:58.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 has made the advancement [Hog Wild!]
+[13Jun2025 03:57:49.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 has completed the challenge [Hunt of a Lifetime!]
+[13Jun2025 03:58:08.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vxrgas has made the advancement [Recrafted Creatures]
+[13Jun2025 03:58:36.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vxrgas has made the advancement [Sweet Dreams]
+[13Jun2025 04:04:17.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vxrgas has made the advancement [Best Friends Forever]
+[13Jun2025 04:04:53.396] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zebra (vehicle of El_Vxrgas) moved wrongly! 0.2564653994168111
+[13Jun2025 04:04:53.445] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zebra (vehicle of El_Vxrgas) moved wrongly! 0.5263645515841375
