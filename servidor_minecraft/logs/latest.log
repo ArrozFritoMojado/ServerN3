@@ -1423,3 +1423,18 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [13Jun2025 02:02:37.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Taokaka left the game
 [13Jun2025 02:02:37.770] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of a83ff7d6-490d-3f17-bd8c-e87b192d7b64 was unloaded
 [13Jun2025 02:02:37.770] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Taokaka
+[13Jun2025 02:07:38.466] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@638bcb69[id=<null>,name=Taokaka,properties={},legacy=false] (/100.96.180.99:54647) lost connection: Disconnected
+[13Jun2025 02:09:49.624] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Taokaka[/100.96.180.99:54661] logged in with entity id 479 at (-8.5, 73.0, 3.5)
+[13Jun2025 02:09:49.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Taokaka joined the game
+[13Jun2025 02:09:49.961] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Taokaka (18)
+[13Jun2025 02:09:49.962] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Taokaka
+[13Jun2025 02:09:50.005] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of a83ff7d6-490d-3f17-bd8c-e87b192d7b64 was loaded
+[13Jun2025 02:09:50.006] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Taokaka]
+[13Jun2025 02:10:05.171] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Taokaka]
+[13Jun2025 02:10:12.668] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Taokaka]
+[13Jun2025 02:10:18.056] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a83ff7d6-490d-3f17-bd8c-e87b192d7b64
+[13Jun2025 02:10:19.059] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a83ff7d6-490d-3f17-bd8c-e87b192d7b64
+[13Jun2025 02:10:19.060] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Taokaka (a83ff7d6-490d-3f17-bd8c-e87b192d7b64) successfully connected to voice chat
+[13Jun2025 02:11:41.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Taokaka has made the advancement [Monster Hunter]
+[13Jun2025 02:14:00.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Taokaka has made the advancement [Stone Age]
+[13Jun2025 02:15:02.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Taokaka has made the advancement [Getting an Upgrade]
