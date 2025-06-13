@@ -1438,3 +1438,8 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [13Jun2025 02:11:41.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Taokaka has made the advancement [Monster Hunter]
 [13Jun2025 02:14:00.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Taokaka has made the advancement [Stone Age]
 [13Jun2025 02:15:02.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Taokaka has made the advancement [Getting an Upgrade]
+[13Jun2025 02:18:31.068] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Taokaka lost connection: Disconnected
+[13Jun2025 02:18:31.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Taokaka left the game
+[13Jun2025 02:18:31.068] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of a83ff7d6-490d-3f17-bd8c-e87b192d7b64 was unloaded
+[13Jun2025 02:18:31.069] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Taokaka
+[13Jun2025 02:26:13.766] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2c585c[id=<null>,name=Taokaka,properties={},legacy=false] (/100.96.180.99:54788) lost connection: Disconnected
