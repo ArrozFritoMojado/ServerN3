@@ -8015,3 +8015,7 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [13Jun2025 05:34:16.752] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
 [13Jun2025 05:39:01.065] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [13Jun2025 05:39:01.074] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jun2025 05:44:01.064] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jun2025 05:44:01.073] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jun2025 05:49:01.064] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jun2025 05:49:01.073] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
