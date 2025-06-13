@@ -353,3 +353,31 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [13Jun2025 03:19:57.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 has made the advancement [Getting an Upgrade]
 [13Jun2025 03:21:47.016] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@58b7a3bc[id=<null>,name=El_Vxrgas,properties={},legacy=false] (/100.124.198.18:56025) lost connection: Disconnected
 [13Jun2025 03:27:13.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 has made the advancement [Sweet Dreams]
+[13Jun2025 03:30:23.826] [Worker-Main-26/WARN] [com.craisinlord.integrated_api.IntegratedAPI/]: Integrated API: Empty or nonexistent pool: integrated_villages:cabin_village/deco/farm2_bottom which is being called from not a SinglePoolElement class
+[13Jun2025 03:30:23.873] [Worker-Main-26/WARN] [com.craisinlord.integrated_api.IntegratedAPI/]: Integrated API: Empty or nonexistent pool: integrated_villages:cabin_village/deco/farm2_bottom which is being called from not a SinglePoolElement class
+[13Jun2025 03:30:23.903] [Worker-Main-26/WARN] [com.craisinlord.integrated_api.IntegratedAPI/]: Integrated API: Empty or nonexistent pool: integrated_villages:cabin_village/deco/pen3_bottom which is being called from not a SinglePoolElement class
+[13Jun2025 03:30:23.903] [Worker-Main-26/WARN] [com.craisinlord.integrated_api.IntegratedAPI/]: Integrated API: Empty or nonexistent pool: integrated_villages:cabin_village/house/stables_bottom which is being called from not a SinglePoolElement class
+[13Jun2025 03:31:54.080] [Worker-Main-12/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id irons_spellbooks:priest
+[13Jun2025 03:32:02.866] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:lightning_magic_resist'
+[13Jun2025 03:32:02.870] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:lightning_magic_resist'
+[13Jun2025 03:32:02.870] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:lightning_magic_resist'
+[13Jun2025 03:32:02.871] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:lightning_magic_resist'
+[13Jun2025 03:32:02.871] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:lightning_magic_resist'
+[13Jun2025 03:32:06.935] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:lightning_magic_resist'
+[13Jun2025 03:32:06.936] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:lightning_magic_resist'
+[13Jun2025 03:32:06.936] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:lightning_magic_resist'
+[13Jun2025 03:32:06.937] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:lightning_magic_resist'
+[13Jun2025 03:32:06.937] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:lightning_magic_resist'
+[13Jun2025 03:32:15.563] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[13Jun2025 03:32:15.568] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id twilightforest:tiny_bird
+[13Jun2025 03:32:15.721] [Worker-Main-13/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:lightning_magic_resist'
+[13Jun2025 03:32:15.722] [Worker-Main-13/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:lightning_magic_resist'
+[13Jun2025 03:32:15.722] [Worker-Main-13/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:lightning_magic_resist'
+[13Jun2025 03:32:15.723] [Worker-Main-13/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:lightning_magic_resist'
+[13Jun2025 03:32:15.723] [Worker-Main-13/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:lightning_magic_resist'
+[13Jun2025 03:32:19.774] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[13Jun2025 03:32:19.775] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id twilightforest:tiny_bird
+[13Jun2025 03:32:22.484] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id twilightforest:tiny_bird
+[13Jun2025 03:32:22.485] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[13Jun2025 03:33:04.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 has made the advancement [Marketstead Village]
+[13Jun2025 03:37:37.017] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1c9582a9[id=<null>,name=El_Vxrgas,properties={},legacy=false] (/100.124.198.18:56118) lost connection: Disconnected
