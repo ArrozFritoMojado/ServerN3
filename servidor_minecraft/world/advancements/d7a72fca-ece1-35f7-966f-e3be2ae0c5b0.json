@@ -1293,6 +1293,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-06-13 04:33:54 +0000"
+    },
+    "done": true
+  },
   "l2weaponry:recipes/combat/generated/upgrade/gold_claw": {
     "criteria": {
       "has_gold_block": "2025-06-13 04:04:24 +0000"
@@ -1314,6 +1320,24 @@
   "l2complements:recipes/misc/vanilla/upgrade/golden_pickaxe": {
     "criteria": {
       "has_gold_block": "2025-06-13 04:04:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-06-13 04:34:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-06-13 04:34:01 +0000"
+    },
+    "done": true
+  },
+  "cnc:bewitched_timber_wolf_advancement": {
+    "criteria": {
+      "bewitched_timber_wolf_advancement_0": "2025-06-13 04:32:15 +0000"
     },
     "done": true
   },
@@ -1347,6 +1371,12 @@
     },
     "done": true
   },
+  "cnc:turkey_advancement": {
+    "criteria": {
+      "turkey_advancement_0": "2025-06-13 04:32:03 +0000"
+    },
+    "done": true
+  },
   "cnc:giant_boaradvancement": {
     "criteria": {
       "giant_boaradvancement_0": "2025-06-13 03:55:58 +0000"
@@ -1356,6 +1386,12 @@
   "l2weaponry:recipes/combat/generated/upgrade/gold_dagger": {
     "criteria": {
       "has_gold_block": "2025-06-13 04:04:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-06-13 04:33:54 +0000"
     },
     "done": true
   },
@@ -1374,6 +1410,12 @@
   "l2weaponry:recipes/combat/generated/upgrade/gold_plate_shield": {
     "criteria": {
       "has_gold_block": "2025-06-13 04:04:24 +0000"
+    },
+    "done": true
+  },
+  "cnc:ringtailadvancement": {
+    "criteria": {
+      "ringtailadvancement_0": "2025-06-13 04:31:46 +0000"
     },
     "done": true
   },
@@ -1425,9 +1467,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2025-06-13 04:33:54 +0000"
+    },
+    "done": true
+  },
   "l2complements:recipes/misc/vanilla/upgrade/golden_leggings": {
     "criteria": {
       "has_gold_block": "2025-06-13 04:04:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-06-13 04:34:01 +0000"
     },
     "done": true
   },
