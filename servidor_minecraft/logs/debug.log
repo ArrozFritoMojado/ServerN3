@@ -7067,3 +7067,12 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [13Jun2025 03:37:36.928] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
 [13Jun2025 03:37:36.967] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
 [13Jun2025 03:37:37.017] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1c9582a9[id=<null>,name=El_Vxrgas,properties={},legacy=false] (/100.124.198.18:56118) lost connection: Disconnected
+[13Jun2025 03:39:01.082] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jun2025 03:39:01.092] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jun2025 03:41:23.268] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tabares10 lost connection: Disconnected
+[13Jun2025 03:41:23.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 left the game
+[13Jun2025 03:41:23.269] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d7a72fca-ece1-35f7-966f-e3be2ae0c5b0 was unloaded
+[13Jun2025 03:41:23.270] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Tabares10
+[13Jun2025 03:41:23.271] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Tabares10
+[13Jun2025 03:44:01.066] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jun2025 03:44:01.075] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

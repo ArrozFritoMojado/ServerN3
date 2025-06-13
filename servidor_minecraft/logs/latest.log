@@ -381,3 +381,7 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [13Jun2025 03:32:22.485] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
 [13Jun2025 03:33:04.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 has made the advancement [Marketstead Village]
 [13Jun2025 03:37:37.017] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1c9582a9[id=<null>,name=El_Vxrgas,properties={},legacy=false] (/100.124.198.18:56118) lost connection: Disconnected
+[13Jun2025 03:41:23.268] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tabares10 lost connection: Disconnected
+[13Jun2025 03:41:23.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 left the game
+[13Jun2025 03:41:23.269] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d7a72fca-ece1-35f7-966f-e3be2ae0c5b0 was unloaded
+[13Jun2025 03:41:23.271] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Tabares10
