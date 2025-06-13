@@ -347,3 +347,9 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [13Jun2025 03:13:34.458] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Tabares10 (d7a72fca-ece1-35f7-966f-e3be2ae0c5b0) successfully connected to voice chat
 [13Jun2025 03:18:03.266] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@49fd2c60[id=<null>,name=El_Vxrgas,properties={},legacy=false] (/100.124.198.18:55943) lost connection: Disconnected
 [13Jun2025 03:18:08.064] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@778d66fe[id=<null>,name=El_Vxrgas,properties={},legacy=false] (/100.124.198.18:55950) lost connection: Disconnected
+[13Jun2025 03:18:21.813] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@c5043dc[id=<null>,name=El_Vxrgas,properties={},legacy=false] (/100.124.198.18:55970) lost connection: Disconnected
+[13Jun2025 03:18:31.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 has made the advancement [Stone Age]
+[13Jun2025 03:19:39.713] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2361265[id=<null>,name=El_Vxrgas,properties={},legacy=false] (/100.124.198.18:55994) lost connection: Disconnected
+[13Jun2025 03:19:57.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 has made the advancement [Getting an Upgrade]
+[13Jun2025 03:21:47.016] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@58b7a3bc[id=<null>,name=El_Vxrgas,properties={},legacy=false] (/100.124.198.18:56025) lost connection: Disconnected
+[13Jun2025 03:27:13.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 has made the advancement [Sweet Dreams]
