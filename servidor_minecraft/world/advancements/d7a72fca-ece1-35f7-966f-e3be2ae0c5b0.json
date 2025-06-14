@@ -45,6 +45,7 @@
       "minecraft:river": "2025-06-13 03:29:11 +0000",
       "minecraft:dripstone_caves": "2025-06-14 04:44:56 +0000",
       "minecraft:forest": "2025-06-13 05:06:56 +0000",
+      "minecraft:jungle": "2025-06-14 19:05:32 +0000",
       "minecraft:flower_forest": "2025-06-14 07:00:06 +0000",
       "minecraft:savanna": "2025-06-13 02:35:16 +0000",
       "minecraft:plains": "2025-06-13 03:35:13 +0000"
@@ -1575,6 +1576,7 @@
   },
   "adorabuild_structures:tireless_legs": {
     "criteria": {
+      "acacia_house_medium_1": "2025-06-14 19:08:48 +0000",
       "jungle_house_small_1": "2025-06-14 07:04:52 +0000",
       "oak_tree_1": "2025-06-14 04:13:41 +0000",
       "oak_house_small_1": "2025-06-14 07:02:13 +0000",
@@ -2332,6 +2334,7 @@
   "recrafted_creatures:unfamiliar_fauna": {
     "criteria": {
       "orangutan": "2025-06-14 07:06:47 +0000",
+      "giraffe": "2025-06-14 19:10:58 +0000",
       "beaver": "2025-06-13 15:56:43 +0000"
     },
     "done": false
@@ -4671,6 +4674,18 @@
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2025-06-14 18:56:06 +0000"
+    },
+    "done": true
+  },
+  "cnc:venomous_snakeadvancement": {
+    "criteria": {
+      "venomous_snakeadvancement_0": "2025-06-14 19:13:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-06-14 19:13:18 +0000"
     },
     "done": true
   },
