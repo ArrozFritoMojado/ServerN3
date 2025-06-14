@@ -7717,3 +7717,15 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [14Jun2025 20:47:19.257] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [14Jun2025 20:52:19.248] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [14Jun2025 20:52:19.258] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jun2025 20:57:19.251] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jun2025 20:57:19.261] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jun2025 21:00:27.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yeidell drowned
+[14Jun2025 21:00:30.847] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Yeidell]
+[14Jun2025 21:02:19.258] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jun2025 21:02:19.268] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jun2025 21:07:19.253] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jun2025 21:07:19.263] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jun2025 21:07:19.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yeidell has made the advancement [Roadrunners Beware!]
+[14Jun2025 21:12:19.251] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jun2025 21:12:19.260] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jun2025 21:12:58.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 has made the advancement [Cheesed to Meet You]
