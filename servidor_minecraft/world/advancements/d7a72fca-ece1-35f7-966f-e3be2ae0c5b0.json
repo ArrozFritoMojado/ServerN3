@@ -1567,8 +1567,10 @@
   },
   "adorabuild_structures:tireless_legs": {
     "criteria": {
+      "oak_tree_1": "2025-06-14 04:13:41 +0000",
       "birch_house_small_2": "2025-06-13 15:56:57 +0000",
-      "oak_hut_1": "2025-06-13 05:00:26 +0000"
+      "oak_hut_1": "2025-06-13 05:00:26 +0000",
+      "library_small_1": "2025-06-14 04:09:14 +0000"
     },
     "done": false
   },
@@ -3126,6 +3128,18 @@
     },
     "done": true
   },
+  "adorabuild_structures:treasure_seeker": {
+    "criteria": {
+      "oak_tree_1": "2025-06-14 04:13:41 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2025-06-14 04:08:27 +0000"
+    },
+    "done": false
+  },
   "immersive_weathering:immersive_weathering/bark_off": {
     "criteria": {
       "wax_off": "2025-06-14 03:54:21 +0000"
@@ -3141,6 +3155,18 @@
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2025-06-14 03:56:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2025-06-14 04:15:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:pillager": "2025-06-14 04:08:27 +0000"
     },
     "done": true
   },

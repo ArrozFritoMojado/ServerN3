@@ -293,6 +293,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-06-14 04:15:21 +0000",
       "porkchop": "2025-06-13 03:57:18 +0000",
       "bread": "2025-06-13 04:01:00 +0000",
       "rotten_flesh": "2025-06-13 03:57:15 +0000",
@@ -302,7 +303,8 @@
   },
   "recrafted_creatures:unfamiliar_fauna": {
     "criteria": {
-      "zebra": "2025-06-13 03:58:08 +0000"
+      "zebra": "2025-06-13 03:58:08 +0000",
+      "beaver": "2025-06-14 04:15:47 +0000"
     },
     "done": false
   },
@@ -1820,7 +1822,10 @@
   },
   "adorabuild_structures:tireless_legs": {
     "criteria": {
-      "oak_hut_1": "2025-06-13 05:00:37 +0000"
+      "oak_tree_1": "2025-06-14 04:13:32 +0000",
+      "birch_house_small_2": "2025-06-14 04:16:12 +0000",
+      "oak_hut_1": "2025-06-13 05:00:37 +0000",
+      "library_small_1": "2025-06-14 04:09:00 +0000"
     },
     "done": false
   },
@@ -2352,9 +2357,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-06-14 04:09:09 +0000"
+    },
+    "done": true
+  },
+  "adorabuild_structures:treasure_seeker": {
+    "criteria": {
+      "oak_tree_1": "2025-06-14 04:13:32 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-06-14 04:09:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2025-06-14 04:08:27 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-06-14 04:08:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-06-14 04:09:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-06-14 04:04:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-14 04:09:08 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/enchantments/safeguard": {
+    "criteria": {
+      "has_book": "2025-06-14 04:09:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-06-14 04:09:28 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/brick": {
+    "criteria": {
+      "has_copper_block": "2025-06-14 04:09:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-14 04:09:08 +0000"
     },
     "done": true
   },
@@ -2370,6 +2441,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-06-14 04:09:28 +0000"
+    },
+    "done": true
+  },
   "immersive_weathering:immersive_weathering/bark_off": {
     "criteria": {
       "wax_off": "2025-06-14 04:05:34 +0000"
@@ -2379,6 +2456,36 @@
   "immersive_weathering:recipes/oak_bark": {
     "criteria": {
       "has_copper_block": "2025-06-14 04:05:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-06-14 04:12:23 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/enchantments/life_mending": {
+    "criteria": {
+      "has_book": "2025-06-14 04:09:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+    "criteria": {
+      "has_eye_armor_trim_smithing_template": "2025-06-14 04:09:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:pillager": "2025-06-14 04:08:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-06-14 04:09:28 +0000"
     },
     "done": true
   },
