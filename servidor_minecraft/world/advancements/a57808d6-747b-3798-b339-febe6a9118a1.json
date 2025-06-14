@@ -29,17 +29,17 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:savanna": "2025-06-14 18:17:30 +0000"
-    },
-    "done": false
-  },
   "integrated_villages:integrated_villages_root": {
     "criteria": {
       "always": "2025-06-14 18:17:29 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:savanna": "2025-06-14 18:17:30 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

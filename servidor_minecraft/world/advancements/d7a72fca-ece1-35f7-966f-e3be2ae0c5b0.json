@@ -4584,33 +4584,9 @@
     },
     "done": true
   },
-  "supplementaries:recipes/flute": {
+  "supplementaries:recipes/slice_map": {
     "criteria": {
-      "has_bamboo": "2025-06-14 07:12:21 +0000"
-    },
-    "done": true
-  },
-  "cnc:gooseadvancement": {
-    "criteria": {
-      "gooseadvancement_0": "2025-06-14 07:13:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2025-06-14 07:23:39 +0000"
-    },
-    "done": true
-  },
-  "cnc:wechuge_killed": {
-    "criteria": {
-      "wechuge_killed_0": "2025-06-14 07:19:43 +0000"
-    },
-    "done": true
-  },
-  "cnc:wendigo_killed": {
-    "criteria": {
-      "wendigo_killed_0": "2025-06-14 07:21:07 +0000"
+      "has_map": "2025-06-14 07:05:03 +0000"
     },
     "done": true
   },
@@ -4620,21 +4596,9 @@
     },
     "done": true
   },
-  "cnc:wendigoadvancement": {
+  "supplementaries:recipes/flute": {
     "criteria": {
-      "wendigoadvancement_0": "2025-06-14 07:20:31 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/slice_map": {
-    "criteria": {
-      "has_map": "2025-06-14 07:05:03 +0000"
-    },
-    "done": true
-  },
-  "cnc:wechugeadvancement": {
-    "criteria": {
-      "wechugeadvancement_0": "2025-06-14 07:17:54 +0000"
+      "has_bamboo": "2025-06-14 07:12:21 +0000"
     },
     "done": true
   },
@@ -4653,6 +4617,42 @@
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2025-06-14 07:12:21 +0000"
+    },
+    "done": true
+  },
+  "cnc:gooseadvancement": {
+    "criteria": {
+      "gooseadvancement_0": "2025-06-14 07:13:01 +0000"
+    },
+    "done": true
+  },
+  "cnc:wechugeadvancement": {
+    "criteria": {
+      "wechugeadvancement_0": "2025-06-14 07:17:54 +0000"
+    },
+    "done": true
+  },
+  "cnc:wechuge_killed": {
+    "criteria": {
+      "wechuge_killed_0": "2025-06-14 07:19:43 +0000"
+    },
+    "done": true
+  },
+  "cnc:wendigoadvancement": {
+    "criteria": {
+      "wendigoadvancement_0": "2025-06-14 07:20:31 +0000"
+    },
+    "done": true
+  },
+  "cnc:wendigo_killed": {
+    "criteria": {
+      "wendigo_killed_0": "2025-06-14 07:21:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-06-14 07:23:39 +0000"
     },
     "done": true
   },
