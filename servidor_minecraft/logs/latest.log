@@ -466,3 +466,5 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [14Jun2025 20:24:28.413] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Tabares10) moved wrongly! 0.6345030055970255
 [14Jun2025 20:24:28.470] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Tabares10) moved wrongly! 1.090377324131623
 [14Jun2025 20:29:43.655] [Worker-Main-28/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[14Jun2025 20:39:14.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yeidell has made the advancement [Isn't It Iron Pick]
+[14Jun2025 20:44:04.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yeidell has made the advancement [Not Today, Thank You]
