@@ -4677,6 +4677,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-06-14 19:19:19 +0000"
+    },
+    "done": true
+  },
   "cnc:venomous_snakeadvancement": {
     "criteria": {
       "venomous_snakeadvancement_0": "2025-06-14 19:13:04 +0000"
@@ -4692,6 +4698,18 @@
   "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
       "has_pumpkin": "2025-06-14 18:56:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-06-14 19:28:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-06-14 19:19:19 +0000"
     },
     "done": true
   },
