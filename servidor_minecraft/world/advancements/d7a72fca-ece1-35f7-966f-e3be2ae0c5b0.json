@@ -4659,6 +4659,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-06-14 19:38:29 +0000"
+    },
+    "done": true
+  },
   "cnc:white_tailed_deer_advancement": {
     "criteria": {
       "white_tailed_deer_advancement_0": "2025-06-14 18:56:10 +0000"

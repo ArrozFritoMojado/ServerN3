@@ -434,3 +434,4 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [14Jun2025 19:15:18.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yeidell left the game
 [14Jun2025 19:15:18.581] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of a57808d6-747b-3798-b339-febe6a9118a1 was unloaded
 [14Jun2025 19:15:18.582] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Yeidell
+[14Jun2025 19:38:29.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 has made the advancement [Take Aim]
