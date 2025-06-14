@@ -363,3 +363,10 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [14Jun2025 04:08:27.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vxrgas has made the advancement [Voluntary Exile]
 [14Jun2025 04:32:10.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vxrgas has made the advancement [Getting an Upgrade]
 [14Jun2025 04:35:15.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <El_Vxrgas> acas
+[14Jun2025 04:58:08.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vxrgas has made the advancement [Diamonds!]
+[14Jun2025 05:02:16.385] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 timed out
+[14Jun2025 05:02:16.385] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player El_Vxrgas
+[14Jun2025 05:02:16.386] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to El_Vxrgas
+[14Jun2025 05:02:16.488] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7
+[14Jun2025 05:02:17.489] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7
+[14Jun2025 05:02:17.489] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player El_Vxrgas (ac4208ce-ee9f-3f5d-aeab-85e9718b53a7) successfully connected to voice chat
