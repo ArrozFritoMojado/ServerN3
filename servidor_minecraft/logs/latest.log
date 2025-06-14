@@ -375,3 +375,22 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [14Jun2025 05:14:37.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vxrgas has made the advancement [Once Upon a Cave]
 [14Jun2025 05:14:48.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 has made the advancement [Alex's Caves]
 [14Jun2025 05:17:04.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 has made the advancement [Suit Up]
+[14Jun2025 05:25:59.815] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: El_Vxrgas was kicked for floating too long!
+[14Jun2025 05:25:59.816] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: El_Vxrgas lost connection: Disconnected
+[14Jun2025 05:25:59.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vxrgas left the game
+[14Jun2025 05:25:59.817] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 was unloaded
+[14Jun2025 05:25:59.819] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client El_Vxrgas
+[14Jun2025 05:25:59.864] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[14Jun2025 05:26:08.728] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: El_Vxrgas[/100.124.198.18:52207] logged in with entity id 11553 at (173.5895775012386, -25.60816285864667, 619.3620757525355)
+[14Jun2025 05:26:08.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vxrgas joined the game
+[14Jun2025 05:26:09.026] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of El_Vxrgas (18)
+[14Jun2025 05:26:09.026] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to El_Vxrgas
+[14Jun2025 05:26:09.065] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 was loaded
+[14Jun2025 05:26:09.065] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [El_Vxrgas]
+[14Jun2025 05:26:15.079] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7
+[14Jun2025 05:26:16.188] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7
+[14Jun2025 05:26:16.188] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player El_Vxrgas (ac4208ce-ee9f-3f5d-aeab-85e9718b53a7) successfully connected to voice chat
+[14Jun2025 05:27:47.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 has made the advancement [Diamonds!]
+[14Jun2025 05:29:35.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tabares10> entre al canal de voz
+[14Jun2025 05:34:40.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <El_Vxrgas> donde esta
+[14Jun2025 05:42:51.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vxrgas has made the advancement [Auto Smelt]
