@@ -435,3 +435,34 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [14Jun2025 19:15:18.581] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of a57808d6-747b-3798-b339-febe6a9118a1 was unloaded
 [14Jun2025 19:15:18.582] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Yeidell
 [14Jun2025 19:38:29.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 has made the advancement [Take Aim]
+[14Jun2025 20:12:30.896] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yeidell[/100.119.186.25:63305] logged in with entity id 37774 at (-1517.3514509344484, 62.0, 1921.6146266805474)
+[14Jun2025 20:12:30.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yeidell joined the game
+[14Jun2025 20:12:31.751] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Yeidell (18)
+[14Jun2025 20:12:31.752] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Yeidell
+[14Jun2025 20:12:31.797] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of a57808d6-747b-3798-b339-febe6a9118a1 was loaded
+[14Jun2025 20:12:31.797] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Yeidell]
+[14Jun2025 20:12:36.844] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a57808d6-747b-3798-b339-febe6a9118a1
+[14Jun2025 20:12:37.845] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a57808d6-747b-3798-b339-febe6a9118a1
+[14Jun2025 20:12:37.846] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Yeidell (a57808d6-747b-3798-b339-febe6a9118a1) successfully connected to voice chat
+[14Jun2025 20:13:05.295] [Worker-Main-40/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[14Jun2025 20:13:05.296] [Worker-Main-40/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[14Jun2025 20:13:05.296] [Worker-Main-40/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[14Jun2025 20:13:05.296] [Worker-Main-40/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[14Jun2025 20:13:05.297] [Worker-Main-40/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[14Jun2025 20:13:05.297] [Worker-Main-40/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[14Jun2025 20:13:05.297] [Worker-Main-40/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[14Jun2025 20:13:05.298] [Worker-Main-40/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[14Jun2025 20:13:05.298] [Worker-Main-40/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[14Jun2025 20:13:43.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yeidell> en que coordenadas andaba ud tabares
+[14Jun2025 20:14:00.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tabares10> MANDE LAS SUYAS
+[14Jun2025 20:14:17.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yeidell> encotre un caballo con armadura de oro
+[14Jun2025 20:14:17.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tabares10> Y LW LLWGO WN CABALLO
+[14Jun2025 20:14:39.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tabares10> AA
+[14Jun2025 20:15:12.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tabares10> 528, 66, 369
+[14Jun2025 20:15:21.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yeidell> que mierda hace por alla
+[14Jun2025 20:16:15.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yeidell> -1573, 74, 2124
+[14Jun2025 20:21:52.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yeidell has made the advancement [Getting an Upgrade]
+[14Jun2025 20:24:28.364] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Tabares10) moved wrongly! 0.2502891388205626
+[14Jun2025 20:24:28.413] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Tabares10) moved wrongly! 0.6345030055970255
+[14Jun2025 20:24:28.470] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Tabares10) moved wrongly! 1.090377324131623
+[14Jun2025 20:29:43.655] [Worker-Main-28/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
