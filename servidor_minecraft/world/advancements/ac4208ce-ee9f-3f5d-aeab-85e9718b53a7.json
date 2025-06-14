@@ -38,6 +38,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:sunflower_plains": "2025-06-13 04:08:23 +0000",
+      "minecraft:birch_forest": "2025-06-14 06:51:29 +0000",
       "minecraft:river": "2025-06-13 03:53:24 +0000",
       "minecraft:dripstone_caves": "2025-06-14 04:46:38 +0000",
       "minecraft:forest": "2025-06-13 03:55:12 +0000",
@@ -294,6 +295,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-06-14 06:51:52 +0000",
       "cooked_mutton": "2025-06-14 04:15:21 +0000",
       "porkchop": "2025-06-13 03:57:18 +0000",
       "bread": "2025-06-13 04:01:00 +0000",
@@ -3437,6 +3439,12 @@
     },
     "done": true
   },
+  "cnc:timberwolfadvancement": {
+    "criteria": {
+      "timberwolfadvancement_0": "2025-06-14 06:49:46 +0000"
+    },
+    "done": true
+  },
   "l2complements:recipes/misc/vanilla/upgrade/iron_chestplate": {
     "criteria": {
       "has_iron_block": "2025-06-14 06:19:21 +0000"
@@ -3746,6 +3754,12 @@
   "l2weaponry:recipes/combat/generated/upgrade/iron_hammer": {
     "criteria": {
       "has_iron_block": "2025-06-14 06:19:21 +0000"
+    },
+    "done": true
+  },
+  "cnc:elkadvancement": {
+    "criteria": {
+      "elkadvancement_0": "2025-06-14 06:51:48 +0000"
     },
     "done": true
   },

@@ -38,6 +38,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:sunflower_plains": "2025-06-13 03:32:49 +0000",
+      "minecraft:birch_forest": "2025-06-14 06:51:23 +0000",
       "minecraft:river": "2025-06-13 03:29:11 +0000",
       "minecraft:dripstone_caves": "2025-06-14 04:44:56 +0000",
       "minecraft:forest": "2025-06-13 05:06:56 +0000",
@@ -3153,6 +3154,7 @@
     "criteria": {
       "minecraft:pillager": "2025-06-14 04:08:27 +0000",
       "minecraft:skeleton": "2025-06-14 04:27:26 +0000",
+      "minecraft:spider": "2025-06-14 06:46:51 +0000",
       "minecraft:creeper": "2025-06-14 05:27:28 +0000",
       "minecraft:zombie": "2025-06-14 06:04:23 +0000"
     },
@@ -4232,6 +4234,12 @@
     },
     "done": true
   },
+  "cnc:timberwolfadvancement": {
+    "criteria": {
+      "timberwolfadvancement_0": "2025-06-14 06:49:47 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_limestone_slab_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-06-14 05:57:12 +0000"
@@ -4289,6 +4297,24 @@
   "create:recipes/misc/crafting/logistics/pulse_repeater": {
     "criteria": {
       "has_item": "2025-06-14 06:06:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-06-14 06:46:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-06-14 06:46:51 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_map": {
+    "criteria": {
+      "cave_map": "2025-06-14 06:43:58 +0000"
     },
     "done": true
   },
@@ -4370,6 +4396,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sack": {
+    "criteria": {
+      "has_string": "2025-06-14 06:46:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-06-14 05:56:33 +0000"
@@ -4406,9 +4438,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-06-14 06:46:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-06-14 06:06:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-06-14 06:46:51 +0000"
     },
     "done": true
   },
@@ -4436,6 +4480,12 @@
     },
     "done": true
   },
+  "cnc:elkadvancement": {
+    "criteria": {
+      "elkadvancement_0": "2025-06-14 06:51:52 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_limestone_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-06-14 05:57:12 +0000"
@@ -4457,6 +4507,12 @@
   "create:recipes/building_blocks/small_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-06-14 05:57:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-06-14 06:46:51 +0000"
     },
     "done": true
   },
@@ -4490,6 +4546,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-06-14 06:46:51 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sconce_soul": {
     "criteria": {
       "has_iron_nugget": "2025-06-14 05:56:33 +0000"
@@ -4499,6 +4561,12 @@
   "create:recipes/misc/crafting/materials/rose_quartz": {
     "criteria": {
       "has_item": "2025-06-14 06:06:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-06-14 06:46:51 +0000"
     },
     "done": true
   },
