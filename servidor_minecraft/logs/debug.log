@@ -7166,3 +7166,8 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [14Jun2025 04:15:03.302] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of El_Vxrgas: {disabled=false, disconnected=false, uuid=ac4208ce-ee9f-3f5d-aeab-85e9718b53a7, name=El_Vxrgas, group=95a1a889-7996-4018-b2b7-a035bac31a14}
 [14Jun2025 04:18:04.839] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [14Jun2025 04:18:04.849] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jun2025 04:23:04.835] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jun2025 04:23:04.845] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jun2025 04:28:04.841] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jun2025 04:28:04.853] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jun2025 04:32:10.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vxrgas has made the advancement [Getting an Upgrade]
