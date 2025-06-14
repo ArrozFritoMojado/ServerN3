@@ -4777,6 +4777,12 @@
     },
     "done": true
   },
+  "cnc:mouseadvancement": {
+    "criteria": {
+      "mouseadvancement_0": "2025-06-14 21:12:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_crimsite_brick_stairs_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-06-14 20:33:30 +0000"

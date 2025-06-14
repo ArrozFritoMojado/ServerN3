@@ -472,3 +472,24 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [14Jun2025 21:00:30.847] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Yeidell]
 [14Jun2025 21:07:19.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yeidell has made the advancement [Roadrunners Beware!]
 [14Jun2025 21:12:58.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 has made the advancement [Cheesed to Meet You]
+[14Jun2025 21:17:30.030] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yeidell lost connection: Disconnected
+[14Jun2025 21:17:30.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yeidell left the game
+[14Jun2025 21:17:30.030] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of a57808d6-747b-3798-b339-febe6a9118a1 was unloaded
+[14Jun2025 21:17:30.031] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Yeidell
+[14Jun2025 21:18:37.679] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tabares10 lost connection: Disconnected
+[14Jun2025 21:18:37.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 left the game
+[14Jun2025 21:18:37.680] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d7a72fca-ece1-35f7-966f-e3be2ae0c5b0 was unloaded
+[14Jun2025 21:18:37.683] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Tabares10
+[14Jun2025 21:20:16.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[14Jun2025 21:20:16.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[14Jun2025 21:20:16.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[14Jun2025 21:20:16.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[14Jun2025 21:20:16.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14Jun2025 21:20:17.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[14Jun2025 21:20:17.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[14Jun2025 21:20:17.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[14Jun2025 21:20:17.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14Jun2025 21:20:17.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14Jun2025 21:20:17.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[14Jun2025 21:20:17.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14Jun2025 21:20:17.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
