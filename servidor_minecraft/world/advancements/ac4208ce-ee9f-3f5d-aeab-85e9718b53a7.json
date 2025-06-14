@@ -3437,6 +3437,12 @@
     },
     "done": true
   },
+  "l2complements:recipes/misc/vanilla/upgrade/iron_chestplate": {
+    "criteria": {
+      "has_iron_block": "2025-06-14 06:19:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_asurine_brick_wall_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-06-14 05:27:45 +0000"
@@ -3449,9 +3455,45 @@
     },
     "done": true
   },
+  "l2weaponry:recipes/enchantments/enchantments/heavy_shield": {
+    "criteria": {
+      "has_anvil": "2025-06-14 06:19:27 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/iron_plate_shield": {
+    "criteria": {
+      "has_iron_block": "2025-06-14 06:19:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-06-14 05:43:11 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/iron_boots": {
+    "criteria": {
+      "has_iron_block": "2025-06-14 06:19:21 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/iron_spear": {
+    "criteria": {
+      "has_iron_block": "2025-06-14 06:19:21 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/iron_shovel": {
+    "criteria": {
+      "has_iron_block": "2025-06-14 06:19:21 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/iron_throwing_axe": {
+    "criteria": {
+      "has_iron_block": "2025-06-14 06:19:21 +0000"
     },
     "done": true
   },
@@ -3473,6 +3515,24 @@
     },
     "done": true
   },
+  "l2complements:recipes/misc/vanilla/upgrade/iron_helmet": {
+    "criteria": {
+      "has_iron_block": "2025-06-14 06:19:21 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/iron_claw": {
+    "criteria": {
+      "has_iron_block": "2025-06-14 06:19:21 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/iron_machete": {
+    "criteria": {
+      "has_iron_block": "2025-06-14 06:19:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-06-14 05:43:11 +0000"
@@ -3488,6 +3548,12 @@
   "supplementaries:recipes/ash_brick": {
     "criteria": {
       "forge:ash": "2025-06-14 05:56:49 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/iron_axe": {
+    "criteria": {
+      "has_iron_block": "2025-06-14 06:19:21 +0000"
     },
     "done": true
   },
@@ -3527,9 +3593,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-06-14 06:19:21 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/iron_leggings": {
+    "criteria": {
+      "has_iron_block": "2025-06-14 06:19:21 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/iron_pickaxe": {
+    "criteria": {
+      "has_iron_block": "2025-06-14 06:19:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_asurine_brick_wall_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-06-14 05:27:45 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/enchantments/enchantments/heavy": {
+    "criteria": {
+      "has_anvil": "2025-06-14 06:19:27 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/iron_sword": {
+    "criteria": {
+      "has_iron_block": "2025-06-14 06:19:21 +0000"
     },
     "done": true
   },
@@ -3599,9 +3695,21 @@
     },
     "done": true
   },
+  "l2weaponry:recipes/combat/generated/upgrade/iron_battle_axe": {
+    "criteria": {
+      "has_iron_block": "2025-06-14 06:19:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/tuff_pillar_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-06-14 05:43:11 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/iron_round_shield": {
+    "criteria": {
+      "has_iron_block": "2025-06-14 06:19:21 +0000"
     },
     "done": true
   },
@@ -3617,6 +3725,18 @@
     },
     "done": true
   },
+  "l2weaponry:recipes/combat/generated/upgrade/iron_scythe": {
+    "criteria": {
+      "has_iron_block": "2025-06-14 06:19:21 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/iron_hammer": {
+    "criteria": {
+      "has_iron_block": "2025-06-14 06:19:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_asurine_bricks_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-06-14 05:27:45 +0000"
@@ -3626,6 +3746,18 @@
   "create:recipes/building_blocks/small_asurine_brick_slab_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-06-14 05:27:45 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/iron_javelin": {
+    "criteria": {
+      "has_iron_block": "2025-06-14 06:19:21 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/iron_nunchaku": {
+    "criteria": {
+      "has_iron_block": "2025-06-14 06:19:21 +0000"
     },
     "done": true
   },
@@ -3674,6 +3806,24 @@
   "create:recipes/building_blocks/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-06-14 05:43:11 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/iron_dagger": {
+    "criteria": {
+      "has_iron_block": "2025-06-14 06:19:21 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/iron_hoe": {
+    "criteria": {
+      "has_iron_block": "2025-06-14 06:19:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-06-14 06:19:21 +0000"
     },
     "done": true
   },

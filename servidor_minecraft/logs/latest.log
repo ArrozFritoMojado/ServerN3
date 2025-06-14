@@ -429,3 +429,8 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [14Jun2025 05:50:55.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 has made the advancement [Once Upon a Cave]
 [14Jun2025 05:54:06.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 has made the advancement [It Belongs in a Museum]
 [14Jun2025 06:03:56.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 has made the advancement [Hot Stuff]
+[14Jun2025 06:16:02.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <El_Vxrgas> donde esta
+[14Jun2025 06:17:55.286] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Jun2025 06:17:55.286] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id twilightforest:tiny_bird
+[14Jun2025 06:17:59.221] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Jun2025 06:17:59.222] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id twilightforest:tiny_bird
