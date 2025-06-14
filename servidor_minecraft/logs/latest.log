@@ -394,3 +394,36 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [14Jun2025 05:29:35.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tabares10> entre al canal de voz
 [14Jun2025 05:34:40.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <El_Vxrgas> donde esta
 [14Jun2025 05:42:51.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vxrgas has made the advancement [Auto Smelt]
+[14Jun2025 05:43:20.988] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player d7a72fca-ece1-35f7-966f-e3be2ae0c5b0 timed out
+[14Jun2025 05:43:20.988] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Tabares10
+[14Jun2025 05:43:20.989] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Tabares10
+[14Jun2025 05:43:30.712] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tabares10 lost connection: Timed out
+[14Jun2025 05:43:30.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 left the game
+[14Jun2025 05:43:30.712] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d7a72fca-ece1-35f7-966f-e3be2ae0c5b0 was unloaded
+[14Jun2025 05:43:30.712] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Tabares10
+[14Jun2025 05:45:45.774] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tabares10[/100.104.164.80:52150] logged in with entity id 14061 at (90.94436968853665, -11.0, 723.4796427290684)
+[14Jun2025 05:45:45.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 joined the game
+[14Jun2025 05:45:46.163] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Tabares10 (18)
+[14Jun2025 05:45:46.163] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Tabares10
+[14Jun2025 05:45:46.244] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d7a72fca-ece1-35f7-966f-e3be2ae0c5b0 was loaded
+[14Jun2025 05:45:46.245] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Tabares10]
+[14Jun2025 05:45:52.493] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d7a72fca-ece1-35f7-966f-e3be2ae0c5b0
+[14Jun2025 05:45:55.465] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d7a72fca-ece1-35f7-966f-e3be2ae0c5b0
+[14Jun2025 05:45:55.465] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Tabares10 (d7a72fca-ece1-35f7-966f-e3be2ae0c5b0) successfully connected to voice chat
+[14Jun2025 05:45:56.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <El_Vxrgas> canas unase
+[14Jun2025 05:46:26.812] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tabares10 lost connection: Disconnected
+[14Jun2025 05:46:26.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 left the game
+[14Jun2025 05:46:26.813] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d7a72fca-ece1-35f7-966f-e3be2ae0c5b0 was unloaded
+[14Jun2025 05:46:26.813] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Tabares10
+[14Jun2025 05:46:46.777] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tabares10[/100.104.164.80:52173] logged in with entity id 14165 at (90.94436968853665, -11.0, 723.4796427290684)
+[14Jun2025 05:46:46.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 joined the game
+[14Jun2025 05:46:47.120] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Tabares10 (18)
+[14Jun2025 05:46:47.121] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Tabares10
+[14Jun2025 05:46:47.168] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d7a72fca-ece1-35f7-966f-e3be2ae0c5b0 was loaded
+[14Jun2025 05:46:47.169] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Tabares10]
+[14Jun2025 05:46:52.686] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d7a72fca-ece1-35f7-966f-e3be2ae0c5b0
+[14Jun2025 05:46:53.656] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d7a72fca-ece1-35f7-966f-e3be2ae0c5b0
+[14Jun2025 05:46:53.657] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Tabares10 (d7a72fca-ece1-35f7-966f-e3be2ae0c5b0) successfully connected to voice chat
+[14Jun2025 05:47:06.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tabares10> oe
+[14Jun2025 05:47:09.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <El_Vxrgas> eo
+[14Jun2025 05:50:55.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 has made the advancement [Once Upon a Cave]
