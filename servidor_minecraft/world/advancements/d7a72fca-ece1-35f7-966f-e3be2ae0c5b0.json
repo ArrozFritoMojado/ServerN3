@@ -4656,5 +4656,29 @@
     },
     "done": true
   },
+  "cnc:white_tailed_deer_advancement": {
+    "criteria": {
+      "white_tailed_deer_advancement_0": "2025-06-14 18:56:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-06-14 18:55:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-06-14 18:56:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-06-14 18:56:06 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

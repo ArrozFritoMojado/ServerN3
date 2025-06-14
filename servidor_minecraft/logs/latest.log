@@ -386,3 +386,22 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [14Jun2025 18:36:51.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yeidell> w4
 [14Jun2025 18:37:45.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yeidell> que hp aldea
 [14Jun2025 18:40:31.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yeidell has made the advancement [Monster Hunter]
+[14Jun2025 18:46:28.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yeidell has made the advancement [Ice Bucket Challenge]
+[14Jun2025 18:47:18.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yeidell> voy a donde ud tabares
+[14Jun2025 18:47:42.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tabares10> oe entre al grupo de audio
+[14Jun2025 18:47:52.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tabares10> de le en la tecla v
+[14Jun2025 18:48:07.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tabares10> o a la b,
+[14Jun2025 18:51:48.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yeidell has made the advancement [Timber!]
+[14Jun2025 18:55:10.111] [Worker-Main-28/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id irons_spellbooks:priest
+[14Jun2025 18:55:29.696] [Worker-Main-28/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[14Jun2025 18:55:38.120] [Worker-Main-40/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[14Jun2025 18:55:38.120] [Worker-Main-40/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[14Jun2025 18:55:38.120] [Worker-Main-40/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[14Jun2025 18:55:38.121] [Worker-Main-40/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[14Jun2025 18:55:38.121] [Worker-Main-40/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[14Jun2025 18:55:44.760] [Worker-Main-40/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[14Jun2025 18:55:45.060] [Worker-Main-28/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[14Jun2025 18:55:53.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 has made the advancement [Voluntary Exile]
+[14Jun2025 18:56:10.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 has made the advancement [Oh Deer]
+[14Jun2025 18:56:19.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yeidell has made the advancement [Clockwork Village]
+[14Jun2025 18:57:05.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yeidell has made the advancement [Suit Up]

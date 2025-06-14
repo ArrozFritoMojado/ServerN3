@@ -38,9 +38,14 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:sunflower_plains": "2025-06-14 18:32:45 +0000",
+      "minecraft:badlands": "2025-06-14 18:55:48 +0000",
+      "minecraft:beach": "2025-06-14 18:49:31 +0000",
+      "minecraft:sparse_jungle": "2025-06-14 18:53:27 +0000",
       "minecraft:river": "2025-06-14 18:31:24 +0000",
+      "minecraft:forest": "2025-06-14 18:54:31 +0000",
       "minecraft:flower_forest": "2025-06-14 18:33:05 +0000",
-      "minecraft:savanna": "2025-06-14 18:17:30 +0000"
+      "minecraft:savanna": "2025-06-14 18:17:30 +0000",
+      "minecraft:plains": "2025-06-14 18:43:26 +0000"
     },
     "done": false
   },
@@ -56,15 +61,45 @@
     },
     "done": true
   },
+  "supplementaries:recipes/soap/map": {
+    "criteria": {
+      "has_filled_map": "2025-06-14 18:38:44 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/sign_post_acacia": {
     "criteria": {
       "has_item": "2025-06-14 18:32:21 +0000"
     },
     "done": true
   },
+  "cnc:beaveradvancement": {
+    "criteria": {
+      "beaveradvancement_0": "2025-06-14 18:51:48 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/crank": {
     "criteria": {
       "forge:rods/wooden": "2025-06-14 18:33:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-06-14 18:54:04 +0000"
+    },
+    "done": true
+  },
+  "integrated_villages:clockwork_village": {
+    "criteria": {
+      "in_clockwork_village": "2025-06-14 18:56:19 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap_block": {
+    "criteria": {
+      "has_soap": "2025-06-14 18:44:13 +0000"
     },
     "done": true
   },
@@ -170,6 +205,30 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2025-06-14 18:40:31 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/soap/spike": {
+    "criteria": {
+      "has_soap": "2025-06-14 18:44:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/bread": {
+    "criteria": {
+      "has_item": "2025-06-14 18:44:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-06-14 18:38:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2025-06-14 18:33:25 +0000"
@@ -212,6 +271,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/smoking/bread": {
+    "criteria": {
+      "has_item": "2025-06-14 18:44:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-06-14 18:54:04 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_pink": {
     "criteria": {
       "has_stick": "2025-06-14 18:33:19 +0000"
@@ -221,6 +292,12 @@
   "create:recipes/building_blocks/acacia_window": {
     "criteria": {
       "has_ingredient": "2025-06-14 18:32:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/curiosities/cake": {
+    "criteria": {
+      "has_item": "2025-06-14 18:44:18 +0000"
     },
     "done": true
   },
@@ -248,9 +325,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/soap/piston": {
+    "criteria": {
+      "has_soap": "2025-06-14 18:44:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-06-14 18:33:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-14 18:54:04 +0000"
     },
     "done": true
   },
@@ -284,6 +373,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-06-14 18:46:28 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candy": {
     "criteria": {
       "has_sugar": "2025-06-14 18:36:30 +0000"
@@ -293,6 +388,18 @@
   "cnc:cooked_turkey_advancement": {
     "criteria": {
       "cooked_turkey_advancement_0": "2025-06-14 18:35:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-06-14 18:54:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/campfire_cooking/bread": {
+    "criteria": {
+      "has_item": "2025-06-14 18:44:18 +0000"
     },
     "done": true
   },
@@ -335,6 +442,12 @@
   "supplementaries:recipes/flags/flag_black": {
     "criteria": {
       "has_stick": "2025-06-14 18:33:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-06-14 18:54:00 +0000"
     },
     "done": true
   },
@@ -440,6 +553,18 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2025-06-14 18:57:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_leggings": "2025-06-14 18:57:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2025-06-14 18:32:21 +0000"
@@ -464,6 +589,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-14 18:54:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-06-14 18:36:56 +0000"
@@ -485,6 +616,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-06-14 18:33:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-06-14 18:38:14 +0000"
     },
     "done": true
   },
@@ -554,6 +691,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-06-14 18:45:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/schematics/schematic_and_quill": {
     "criteria": {
       "has_item": "2025-06-14 18:36:56 +0000"
@@ -563,6 +706,18 @@
   "create:recipes/misc/crafting/schematics/empty_schematic": {
     "criteria": {
       "has_item": "2025-06-14 18:36:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-14 18:54:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-06-14 18:54:04 +0000"
     },
     "done": true
   },
@@ -620,6 +775,12 @@
     },
     "done": true
   },
+  "l2complements:recipes/burnt/burnt/emerald": {
+    "criteria": {
+      "has_emerald": "2025-06-14 18:45:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_planks": "2025-06-14 18:32:21 +0000"
@@ -632,9 +793,27 @@
     },
     "done": true
   },
+  "supplementaries:recipes/soap/blackboard": {
+    "criteria": {
+      "has_soap": "2025-06-14 18:44:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-06-14 18:54:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/sand_paper": {
     "criteria": {
       "has_item": "2025-06-14 18:36:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-06-14 18:54:04 +0000"
     },
     "done": true
   },
@@ -704,9 +883,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-06-14 18:54:00 +0000"
+    },
+    "done": true
+  },
   "l2complements:recipes/enchantments/enchantments/life_mending": {
     "criteria": {
       "has_book": "2025-06-14 18:36:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-06-14 18:46:28 +0000"
     },
     "done": true
   },
@@ -719,6 +910,12 @@
   "supplementaries:recipes/flags/flag_cyan": {
     "criteria": {
       "has_stick": "2025-06-14 18:33:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-14 18:54:04 +0000"
     },
     "done": true
   },
@@ -740,6 +937,18 @@
     },
     "done": true
   },
+  "supplementaries:recipes/slice_map": {
+    "criteria": {
+      "has_map": "2025-06-14 18:38:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/dough": {
+    "criteria": {
+      "has_item": "2025-06-14 18:44:19 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_light_gray": {
     "criteria": {
       "has_stick": "2025-06-14 18:33:19 +0000"
@@ -758,9 +967,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-06-14 18:54:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-06-14 18:36:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_leggings": "2025-06-14 18:57:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-06-14 18:40:31 +0000"
     },
     "done": true
   },
@@ -791,13 +1018,32 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "bread": "2025-06-14 18:43:21 +0000",
       "cooked_salmon": "2025-06-14 18:34:38 +0000"
     },
     "done": false
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-06-14 18:46:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-06-14 18:33:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2025-06-14 18:38:14 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-06-14 18:40:31 +0000"
     },
     "done": true
   },
@@ -816,6 +1062,18 @@
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log": "2025-06-14 18:28:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/slime_ball": {
+    "criteria": {
+      "has_item": "2025-06-14 18:44:18 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap/globe": {
+    "criteria": {
+      "has_soap": "2025-06-14 18:44:13 +0000"
     },
     "done": true
   },

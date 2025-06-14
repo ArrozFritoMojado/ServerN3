@@ -7383,3 +7383,38 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [14Jun2025 18:38:44.873] [Server thread/DEBUG] [mixin/]: Mixing MapDecorationMixin from alexscaves.mixins.json into net.minecraft.world.level.saveddata.maps.MapDecoration
 [14Jun2025 18:38:44.889] [Server thread/DEBUG] [mixin/]: Mixing HoldingPlayerMixin from moonlight-common.mixins.json into net.minecraft.world.level.saveddata.maps.MapItemSavedData$HoldingPlayer
 [14Jun2025 18:40:31.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yeidell has made the advancement [Monster Hunter]
+[14Jun2025 18:42:19.269] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jun2025 18:42:19.279] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jun2025 18:46:28.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yeidell has made the advancement [Ice Bucket Challenge]
+[14Jun2025 18:47:18.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yeidell> voy a donde ud tabares
+[14Jun2025 18:47:19.264] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jun2025 18:47:19.274] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jun2025 18:47:42.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tabares10> oe entre al grupo de audio
+[14Jun2025 18:47:52.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tabares10> de le en la tecla v
+[14Jun2025 18:48:07.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tabares10> o a la b,
+[14Jun2025 18:48:20.533] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Yeidell: {disabled=false, disconnected=false, uuid=a57808d6-747b-3798-b339-febe6a9118a1, name=Yeidell, group=null}
+[14Jun2025 18:48:32.148] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of Yeidell: {disabled=false, disconnected=false, uuid=a57808d6-747b-3798-b339-febe6a9118a1, name=Yeidell, group=ba5c9b20-42d9-437b-ae9a-073e04f4667b}
+[14Jun2025 18:49:20.570] [Worker-Main-29/DEBUG] [mixin/]: Mixing structures.JigsawPlacementUnlimit from integrated_api-common.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement
+[14Jun2025 18:49:20.580] [Worker-Main-29/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[14Jun2025 18:50:23.140] [Worker-Main-28/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[14Jun2025 18:51:48.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yeidell has made the advancement [Timber!]
+[14Jun2025 18:52:19.262] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jun2025 18:52:19.271] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jun2025 18:52:40.605] [Worker-Main-28/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[14Jun2025 18:53:04.676] [Worker-Main-29/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[14Jun2025 18:54:28.761] [Worker-Main-40/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[14Jun2025 18:55:10.111] [Worker-Main-28/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id irons_spellbooks:priest
+[14Jun2025 18:55:29.696] [Worker-Main-28/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[14Jun2025 18:55:38.120] [Worker-Main-40/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[14Jun2025 18:55:38.120] [Worker-Main-40/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[14Jun2025 18:55:38.120] [Worker-Main-40/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[14Jun2025 18:55:38.121] [Worker-Main-40/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[14Jun2025 18:55:38.121] [Worker-Main-40/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id quark:glass_frame
+[14Jun2025 18:55:44.760] [Worker-Main-40/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[14Jun2025 18:55:45.060] [Worker-Main-28/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[14Jun2025 18:55:53.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 has made the advancement [Voluntary Exile]
+[14Jun2025 18:56:10.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 has made the advancement [Oh Deer]
+[14Jun2025 18:56:19.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yeidell has made the advancement [Clockwork Village]
+[14Jun2025 18:57:05.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yeidell has made the advancement [Suit Up]
+[14Jun2025 18:57:19.270] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jun2025 18:57:19.280] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
