@@ -368,3 +368,21 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [14Jun2025 18:27:59.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yeidell> mande las coordenadas tabares
 [14Jun2025 18:29:38.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tabares10> -1570, 82,2179
 [14Jun2025 18:30:19.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yeidell> estan en la puta mierda
+[14Jun2025 18:31:33.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tabares10> 71,79, 400
+[14Jun2025 18:31:39.205] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Jun2025 18:31:39.208] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id twilightforest:tiny_bird
+[14Jun2025 18:31:42.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yeidell> esa cual es
+[14Jun2025 18:31:48.698] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Jun2025 18:31:48.698] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id twilightforest:tiny_bird
+[14Jun2025 18:31:51.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tabares10> coordenadas de una aldea
+[14Jun2025 18:31:52.094] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id twilightforest:tiny_bird
+[14Jun2025 18:31:52.095] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Jun2025 18:32:06.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yeidell has made the advancement [Fowl Play]
+[14Jun2025 18:32:08.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tabares10> q esta por ahi cerca de la casa de nosotros
+[14Jun2025 18:33:25.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yeidell has made the advancement [Stone Age]
+[14Jun2025 18:35:00.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yeidell has made the advancement [We Have to Get Turkey off The Menu!]
+[14Jun2025 18:36:20.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yeidell has made the advancement [Marketstead Village]
+[14Jun2025 18:36:45.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yeidell has made the advancement [Sweet Dreams]
+[14Jun2025 18:36:51.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yeidell> w4
+[14Jun2025 18:37:45.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yeidell> que hp aldea
+[14Jun2025 18:40:31.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yeidell has made the advancement [Monster Hunter]
