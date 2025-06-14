@@ -448,3 +448,67 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [14Jun2025 06:49:47.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 has made the advancement [Big Bad]
 [14Jun2025 06:51:48.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vxrgas has made the advancement [Elk-a-holic]
 [14Jun2025 06:51:52.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 has made the advancement [Elk-a-holic]
+[14Jun2025 06:55:25.014] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tabares10 lost connection: Disconnected
+[14Jun2025 06:55:25.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 left the game
+[14Jun2025 06:55:25.014] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d7a72fca-ece1-35f7-966f-e3be2ae0c5b0 was unloaded
+[14Jun2025 06:55:25.015] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Tabares10
+[14Jun2025 06:56:01.615] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7e47c3f1[id=<null>,name=Tabares10,properties={},legacy=false] (/100.104.164.80:52833) lost connection: Disconnected
+[14Jun2025 06:56:49.824] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tabares10[/100.104.164.80:52908] logged in with entity id 24484 at (91.15118251201372, 64.0, 1038.0418918661878)
+[14Jun2025 06:56:49.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 joined the game
+[14Jun2025 06:56:50.084] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Tabares10 (18)
+[14Jun2025 06:56:50.085] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Tabares10
+[14Jun2025 06:56:50.140] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d7a72fca-ece1-35f7-966f-e3be2ae0c5b0 was loaded
+[14Jun2025 06:56:50.141] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Tabares10]
+[14Jun2025 06:56:55.231] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d7a72fca-ece1-35f7-966f-e3be2ae0c5b0
+[14Jun2025 06:56:56.234] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d7a72fca-ece1-35f7-966f-e3be2ae0c5b0
+[14Jun2025 06:56:56.235] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Tabares10 (d7a72fca-ece1-35f7-966f-e3be2ae0c5b0) successfully connected to voice chat
+[14Jun2025 06:57:06.240] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Tabares10) moved wrongly! 0.35521253594424707
+[14Jun2025 06:57:06.300] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Tabares10) moved wrongly! 0.8847129758532901
+[14Jun2025 06:57:06.355] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Tabares10) moved wrongly! 1.418422720762237
+[14Jun2025 06:58:08.289] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Tabares10) moved wrongly! 0.25044759609215816
+[14Jun2025 06:58:27.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vxrgas has made the advancement [Peace Was Never An Option]
+[14Jun2025 07:00:23.325] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of El_Vxrgas) moved wrongly! 0.29461214931461654
+[14Jun2025 07:00:23.381] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of El_Vxrgas) moved wrongly! 0.6554042906595896
+[14Jun2025 07:02:48.183] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Tabares10) moved wrongly! 0.25911235489184037
+[14Jun2025 07:02:48.242] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Tabares10) moved wrongly! 0.5601504465744256
+[14Jun2025 07:11:40.291] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Tabares10) moved wrongly! 0.6293061850515187
+[14Jun2025 07:11:40.337] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Tabares10) moved wrongly! 0.9903104053612424
+[14Jun2025 07:11:40.397] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Tabares10) moved wrongly! 0.31225397831190094
+[14Jun2025 07:13:01.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 has made the advancement [Peace Was Never An Option]
+[14Jun2025 07:14:49.785] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Tabares10) moved wrongly! 0.2663813237040813
+[14Jun2025 07:14:49.854] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Tabares10) moved wrongly! 0.6311799748166322
+[14Jun2025 07:14:49.904] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Tabares10) moved wrongly! 1.0666687979617413
+[14Jun2025 07:17:54.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 has completed the challenge [Fury of The Frost]
+[14Jun2025 07:18:00.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vxrgas has completed the challenge [Fury of The Frost]
+[14Jun2025 07:19:43.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 has completed the challenge [Metephor? Never heard of it!]
+[14Jun2025 07:20:31.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 has completed the challenge [Harrowing Hunger]
+[14Jun2025 07:20:50.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vxrgas has completed the challenge [Harrowing Hunger]
+[14Jun2025 07:21:07.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 has completed the challenge [Fatal Fast]
+[14Jun2025 07:21:50.577] [Worker-Main-155/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[14Jun2025 07:21:59.683] [Worker-Main-16/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[14Jun2025 07:22:07.879] [Worker-Main-16/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[14Jun2025 07:22:07.880] [Worker-Main-16/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[14Jun2025 07:22:07.932] [Worker-Main-165/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[14Jun2025 07:22:07.932] [Worker-Main-165/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[14Jun2025 07:24:54.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <El_Vxrgas> jugamos mañana ale?
+[14Jun2025 07:25:48.163] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: El_Vxrgas lost connection: Disconnected
+[14Jun2025 07:25:48.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vxrgas left the game
+[14Jun2025 07:25:48.163] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 was unloaded
+[14Jun2025 07:25:48.163] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client El_Vxrgas
+[14Jun2025 07:25:51.812] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tabares10 lost connection: Disconnected
+[14Jun2025 07:25:51.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 left the game
+[14Jun2025 07:25:51.812] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d7a72fca-ece1-35f7-966f-e3be2ae0c5b0 was unloaded
+[14Jun2025 07:25:51.813] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Tabares10
+[14Jun2025 07:26:58.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[14Jun2025 07:26:58.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[14Jun2025 07:26:58.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[14Jun2025 07:26:58.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[14Jun2025 07:26:58.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14Jun2025 07:26:58.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[14Jun2025 07:26:58.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[14Jun2025 07:26:58.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[14Jun2025 07:26:58.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14Jun2025 07:26:58.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14Jun2025 07:26:58.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[14Jun2025 07:26:58.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14Jun2025 07:26:58.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
