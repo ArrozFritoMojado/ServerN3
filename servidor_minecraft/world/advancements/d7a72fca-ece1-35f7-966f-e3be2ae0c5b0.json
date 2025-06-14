@@ -39,6 +39,7 @@
     "criteria": {
       "minecraft:sunflower_plains": "2025-06-13 03:32:49 +0000",
       "minecraft:river": "2025-06-13 03:29:11 +0000",
+      "minecraft:dripstone_caves": "2025-06-14 04:44:56 +0000",
       "minecraft:forest": "2025-06-13 05:06:56 +0000",
       "minecraft:savanna": "2025-06-13 02:35:16 +0000",
       "minecraft:plains": "2025-06-13 03:35:13 +0000"
@@ -444,6 +445,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-06-13 03:17:23 +0000",
+      "cooked_mutton": "2025-06-14 04:47:26 +0000",
       "bread": "2025-06-13 15:54:59 +0000"
     },
     "done": false
@@ -3146,6 +3148,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-06-14 04:42:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-06-14 04:23:38 +0000"
@@ -3267,9 +3275,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-06-14 04:40:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-06-14 04:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-06-14 04:42:32 +0000"
     },
     "done": true
   },
@@ -3312,6 +3332,18 @@
   "create:recipes/building_blocks/tuff_pillar_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-06-14 04:23:38 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "forge:eggs": "2025-06-14 04:40:38 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/cooked_mutton": {
+    "criteria": {
+      "has_cooked_mutton": "2025-06-14 04:42:48 +0000"
     },
     "done": true
   },
@@ -3402,6 +3434,12 @@
   "create:recipes/building_blocks/small_scoria_bricks_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-06-14 04:24:09 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/lapis_bricks": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-06-14 04:42:32 +0000"
     },
     "done": true
   },

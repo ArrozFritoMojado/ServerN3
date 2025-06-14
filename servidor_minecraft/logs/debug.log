@@ -7176,3 +7176,7 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [14Jun2025 04:35:15.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <El_Vxrgas> acas
 [14Jun2025 04:38:04.836] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [14Jun2025 04:38:04.845] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jun2025 04:43:04.832] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jun2025 04:43:04.841] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jun2025 04:48:04.836] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jun2025 04:48:04.849] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
