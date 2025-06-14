@@ -3545,6 +3545,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_map": {
+    "criteria": {
+      "cave_map": "2025-06-14 06:43:02 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/ash_brick": {
     "criteria": {
       "forge:ash": "2025-06-14 05:56:49 +0000"
@@ -3578,6 +3584,12 @@
   "create:recipes/building_blocks/cut_asurine_slab_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-06-14 05:27:45 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_codex": {
+    "criteria": {
+      "cave_codex": "2025-06-14 06:39:35 +0000"
     },
     "done": true
   },

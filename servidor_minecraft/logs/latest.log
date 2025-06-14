@@ -434,3 +434,11 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [14Jun2025 06:17:55.286] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id twilightforest:tiny_bird
 [14Jun2025 06:17:59.221] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
 [14Jun2025 06:17:59.222] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id twilightforest:tiny_bird
+[14Jun2025 06:25:45.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <El_Vxrgas> e
+[14Jun2025 06:27:22.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 has made the advancement [Friend-shaped]
+[14Jun2025 06:31:56.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <El_Vxrgas> tiene papel?
+[14Jun2025 06:39:35.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vxrgas has made the advancement [Lorem Ipsum]
+[14Jun2025 06:39:52.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <El_Vxrgas> tabares´
+[14Jun2025 06:40:07.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 has made the advancement [Lorem Ipsum]
+[14Jun2025 06:43:02.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vxrgas has made the advancement [The Journey Begins]
+[14Jun2025 06:43:05.622] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:primordial_caves at -4907 -32 4265 in 1s

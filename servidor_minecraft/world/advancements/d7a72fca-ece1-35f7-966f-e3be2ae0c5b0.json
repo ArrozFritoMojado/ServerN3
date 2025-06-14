@@ -4274,6 +4274,12 @@
     },
     "done": true
   },
+  "cnc:harmless_snakeadvancement": {
+    "criteria": {
+      "harmless_snakeadvancement_0": "2025-06-14 06:27:22 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_limestone_stairs_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-06-14 05:57:12 +0000"
@@ -4337,6 +4343,12 @@
   "supplementaries:recipes/redstone_illuminator": {
     "criteria": {
       "has_redstone": "2025-06-14 06:06:51 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_codex": {
+    "criteria": {
+      "cave_codex": "2025-06-14 06:40:07 +0000"
     },
     "done": true
   },
