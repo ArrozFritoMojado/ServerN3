@@ -2490,6 +2490,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-06-14 05:14:12 +0000"
+    },
+    "done": true
+  },
   "l2weaponry:recipes/tools/generated/craft/diamond_scythe_enchanted": {
     "criteria": {
       "has_diamond": "2025-06-14 04:58:08 +0000"
@@ -2506,6 +2512,7 @@
     "criteria": {
       "minecraft:pillager": "2025-06-14 04:08:27 +0000",
       "minecraft:skeleton": "2025-06-14 05:02:24 +0000",
+      "minecraft:spider": "2025-06-14 05:22:09 +0000",
       "minecraft:creeper": "2025-06-14 04:18:44 +0000",
       "minecraft:zombie": "2025-06-14 05:03:20 +0000"
     },
@@ -2559,6 +2566,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-06-14 05:15:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-06-14 04:58:08 +0000"
@@ -2580,6 +2593,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-14 04:58:21 +0000"
+    },
+    "done": true
+  },
+  "alekiships:recipes/crafting/crafting/cannon": {
+    "criteria": {
+      "has_wooden_slab": "2025-06-14 05:14:23 +0000"
     },
     "done": true
   },
@@ -2757,6 +2776,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-06-14 05:14:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-06-14 04:58:08 +0000"
@@ -2805,6 +2830,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-06-14 05:15:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-06-14 04:04:07 +0000"
@@ -2850,6 +2881,12 @@
   "l2complements:recipes/enchantments/enchantments/safeguard": {
     "criteria": {
       "has_book": "2025-06-14 04:09:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/controller_rail": {
+    "criteria": {
+      "has_item": "2025-06-14 05:15:24 +0000"
     },
     "done": true
   },
@@ -2913,6 +2950,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-06-14 05:14:23 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/dripstone_block_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-06-14 05:02:12 +0000"
@@ -2928,6 +2971,12 @@
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-14 04:58:21 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bamboo_spikes": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-06-14 05:14:23 +0000"
     },
     "done": true
   },
@@ -2985,6 +3034,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-06-14 05:14:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_granite_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-06-14 04:36:24 +0000"
@@ -3000,6 +3055,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-14 04:58:21 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackboard": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-06-14 05:14:23 +0000"
     },
     "done": true
   },
@@ -3030,6 +3091,12 @@
   "immersive_weathering:immersive_weathering/bark_off": {
     "criteria": {
       "wax_off": "2025-06-14 04:05:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-06-14 05:15:33 +0000"
     },
     "done": true
   },
@@ -3081,6 +3148,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2025-06-14 05:14:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-06-14 04:32:10 +0000"
@@ -3123,6 +3196,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-06-14 05:08:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/dripstone_pillar_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-06-14 05:02:12 +0000"
@@ -3144,6 +3223,12 @@
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-14 04:58:21 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/jar": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-06-14 05:14:23 +0000"
     },
     "done": true
   },

@@ -370,3 +370,8 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [14Jun2025 05:02:16.488] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7
 [14Jun2025 05:02:17.489] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7
 [14Jun2025 05:02:17.489] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player El_Vxrgas (ac4208ce-ee9f-3f5d-aeab-85e9718b53a7) successfully connected to voice chat
+[14Jun2025 05:14:12.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vxrgas has made the advancement [Alex's Caves]
+[14Jun2025 05:14:32.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vxrgas has made the advancement [It Belongs in a Museum]
+[14Jun2025 05:14:37.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vxrgas has made the advancement [Once Upon a Cave]
+[14Jun2025 05:14:48.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 has made the advancement [Alex's Caves]
+[14Jun2025 05:17:04.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 has made the advancement [Suit Up]
