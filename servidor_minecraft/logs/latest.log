@@ -356,3 +356,8 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [14Jun2025 04:00:38.102] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player El_Vxrgas (ac4208ce-ee9f-3f5d-aeab-85e9718b53a7) successfully connected to voice chat
 [14Jun2025 04:01:46.984] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
 [14Jun2025 04:01:46.984] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id twilightforest:tiny_bird
+[14Jun2025 04:05:25.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <El_Vxrgas> cwd
+[14Jun2025 04:05:34.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vxrgas has made the advancement [Bark Off]
+[14Jun2025 04:08:27.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 has made the advancement [Monster Hunter]
+[14Jun2025 04:08:27.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vxrgas has made the advancement [Monster Hunter]
+[14Jun2025 04:08:27.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vxrgas has made the advancement [Voluntary Exile]
