@@ -346,3 +346,39 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [15Jun2025 21:18:36.082] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7
 [15Jun2025 21:18:37.087] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7
 [15Jun2025 21:18:37.092] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player El_Vxrgas (ac4208ce-ee9f-3f5d-aeab-85e9718b53a7) successfully connected to voice chat
+[15Jun2025 21:25:34.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vxrgas has made the advancement [If Not Friend... Why Friend Shaped?]
+[15Jun2025 21:34:27.894] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tabares10[/100.104.164.80:55124] logged in with entity id 7933 at (-1103.699999988079, 74.0, 1786.6802451549293)
+[15Jun2025 21:34:27.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 joined the game
+[15Jun2025 21:34:29.114] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Tabares10 (18)
+[15Jun2025 21:34:29.115] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Tabares10
+[15Jun2025 21:34:29.235] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d7a72fca-ece1-35f7-966f-e3be2ae0c5b0 was loaded
+[15Jun2025 21:34:29.235] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Tabares10]
+[15Jun2025 21:34:38.881] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d7a72fca-ece1-35f7-966f-e3be2ae0c5b0
+[15Jun2025 21:34:39.835] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d7a72fca-ece1-35f7-966f-e3be2ae0c5b0
+[15Jun2025 21:34:39.836] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Tabares10 (d7a72fca-ece1-35f7-966f-e3be2ae0c5b0) successfully connected to voice chat
+[15Jun2025 21:35:58.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tabares10> grupo voz
+[15Jun2025 21:37:54.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tabares10> entre al grupo de vozzzz
+[15Jun2025 21:37:58.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tabares10> 123
+[15Jun2025 21:38:49.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tabares10> -1108,79,1789
+[15Jun2025 21:39:56.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <El_Vxrgas> puede dormir?
+[15Jun2025 21:39:59.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <El_Vxrgas> acuestese si puede
+[15Jun2025 21:40:01.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tabares10> no
+[15Jun2025 21:43:04.905] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Tabares10) moved wrongly! 0.29344978636845553
+[15Jun2025 21:43:04.966] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Tabares10) moved wrongly! 0.802100990337749
+[15Jun2025 21:43:04.991] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Tabares10) moved wrongly! 1.3049517020867825
+[15Jun2025 21:43:05.048] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Tabares10) moved wrongly! 0.48324369428428327
+[15Jun2025 21:43:05.097] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Tabares10) moved wrongly! 0.4790308310934961
+[15Jun2025 21:43:05.136] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Tabares10) moved wrongly! 0.9684205298649431
+[15Jun2025 21:43:05.193] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Tabares10) moved wrongly! 0.46070388829275544
+[15Jun2025 21:43:05.243] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Tabares10) moved wrongly! 0.4513614197039715
+[15Jun2025 21:43:05.297] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Tabares10) moved wrongly! 0.9134496188316916
+[15Jun2025 21:43:05.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Tabares10) moved wrongly! 0.4436876025620222
+[15Jun2025 21:43:05.416] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Tabares10) moved wrongly! 0.4390505090254919
+[15Jun2025 21:43:05.466] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Tabares10) moved wrongly! 0.4302076224362281
+[15Jun2025 21:43:05.503] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Tabares10) moved wrongly! 0.8631744132370458
+[15Jun2025 21:43:05.539] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Tabares10) moved wrongly! 0.40381435123026677
+[15Jun2025 21:43:05.627] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Tabares10) moved wrongly! 0.8279528521042635
+[15Jun2025 21:43:05.691] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Tabares10) moved wrongly! 1.3181283957027168
+[15Jun2025 21:43:05.737] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Tabares10) moved wrongly! 0.38829568463734176
+[15Jun2025 21:43:05.776] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Tabares10) moved wrongly! 0.803720638451162
+[15Jun2025 21:43:05.857] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Tabares10) moved wrongly! 0.28341952607888743

@@ -4951,15 +4951,81 @@
     },
     "done": true
   },
+  "l2complements:recipes/burnt/burnt/chicken": {
+    "criteria": {
+      "has_chicken": "2025-06-15 18:51:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-06-15 18:51:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-06-15 18:51:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-06-15 19:02:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-06-15 19:02:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-06-15 19:02:52 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/salmon": {
+    "criteria": {
+      "has_salmon": "2025-06-15 19:02:52 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:immersive_weathering/weeds": {
+    "criteria": {
+      "wheat": "2025-06-15 19:05:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-06-15 19:10:08 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/enchantments/stable_body": {
+    "criteria": {
+      "has_crying_obsidian": "2025-06-15 19:10:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-06-15 19:10:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2025-06-15 19:28:52 +0000"
     },
     "done": true
   },
-  "l2complements:recipes/burnt/burnt/chicken": {
+  "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
-      "has_chicken": "2025-06-15 18:51:33 +0000"
+      "has_logs": "2025-06-15 19:28:52 +0000"
     },
     "done": true
   },
@@ -4978,18 +5044,6 @@
   "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
       "has_planks": "2025-06-15 19:29:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken_from_smoking": {
-    "criteria": {
-      "has_chicken": "2025-06-15 18:51:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
-    "criteria": {
-      "has_salmon": "2025-06-15 19:02:52 +0000"
     },
     "done": true
   },
@@ -5023,30 +5077,6 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_crying_obsidian": {
-    "criteria": {
-      "crying_obsidian": "2025-06-15 19:10:08 +0000"
-    },
-    "done": true
-  },
-  "immersive_weathering:immersive_weathering/weeds": {
-    "criteria": {
-      "wheat": "2025-06-15 19:05:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken": {
-    "criteria": {
-      "has_chicken": "2025-06-15 18:51:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon": {
-    "criteria": {
-      "has_salmon": "2025-06-15 19:02:52 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/decorations/sign_post_jungle": {
     "criteria": {
       "has_item": "2025-06-15 19:29:00 +0000"
@@ -5059,39 +5089,9 @@
     },
     "done": true
   },
-  "l2complements:recipes/enchantments/enchantments/stable_body": {
-    "criteria": {
-      "has_crying_obsidian": "2025-06-15 19:10:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2025-06-15 19:29:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_smoking": {
-    "criteria": {
-      "has_salmon": "2025-06-15 19:02:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_planks": {
-    "criteria": {
-      "has_logs": "2025-06-15 19:28:52 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/burnt/burnt/salmon": {
-    "criteria": {
-      "has_salmon": "2025-06-15 19:02:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/respawn_anchor": {
-    "criteria": {
-      "has_obsidian": "2025-06-15 19:10:08 +0000"
     },
     "done": true
   },

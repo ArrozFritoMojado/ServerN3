@@ -45,6 +45,7 @@
       "minecraft:river": "2025-06-13 03:53:24 +0000",
       "minecraft:dripstone_caves": "2025-06-14 04:46:38 +0000",
       "minecraft:forest": "2025-06-13 03:55:12 +0000",
+      "minecraft:jungle": "2025-06-15 21:29:49 +0000",
       "minecraft:flower_forest": "2025-06-14 07:00:24 +0000",
       "minecraft:savanna": "2025-06-13 03:51:19 +0000",
       "minecraft:plains": "2025-06-13 03:53:37 +0000"
@@ -312,7 +313,8 @@
     "criteria": {
       "zebra": "2025-06-13 03:58:08 +0000",
       "orangutan": "2025-06-14 07:06:08 +0000",
-      "beaver": "2025-06-14 04:15:47 +0000"
+      "beaver": "2025-06-14 04:15:47 +0000",
+      "red_panda": "2025-06-15 21:31:54 +0000"
     },
     "done": false
   },
@@ -1836,6 +1838,7 @@
       "oak_house_small_2": "2025-06-14 06:54:29 +0000",
       "birch_house_small_2": "2025-06-14 04:16:12 +0000",
       "oak_hut_1": "2025-06-13 05:00:37 +0000",
+      "oak_house_medium_2": "2025-06-15 21:25:55 +0000",
       "library_small_1": "2025-06-14 04:09:00 +0000"
     },
     "done": false
@@ -3441,87 +3444,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_tuff_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-06-14 05:43:11 +0000"
-    },
-    "done": true
-  },
-  "cnc:timberwolfadvancement": {
-    "criteria": {
-      "timberwolfadvancement_0": "2025-06-14 06:49:46 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/misc/vanilla/upgrade/iron_chestplate": {
-    "criteria": {
-      "has_iron_block": "2025-06-14 06:19:21 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_asurine_brick_wall_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-06-14 05:27:45 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_tuff_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-06-14 05:43:11 +0000"
-    },
-    "done": true
-  },
-  "l2weaponry:recipes/enchantments/enchantments/heavy_shield": {
-    "criteria": {
-      "has_anvil": "2025-06-14 06:19:27 +0000"
-    },
-    "done": true
-  },
-  "l2weaponry:recipes/combat/generated/upgrade/iron_plate_shield": {
-    "criteria": {
-      "has_iron_block": "2025-06-14 06:19:21 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-06-14 05:43:11 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/misc/vanilla/upgrade/iron_boots": {
-    "criteria": {
-      "has_iron_block": "2025-06-14 06:19:21 +0000"
-    },
-    "done": true
-  },
-  "l2weaponry:recipes/combat/generated/upgrade/iron_spear": {
-    "criteria": {
-      "has_iron_block": "2025-06-14 06:19:21 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/misc/vanilla/upgrade/iron_shovel": {
-    "criteria": {
-      "has_iron_block": "2025-06-14 06:19:21 +0000"
-    },
-    "done": true
-  },
-  "l2weaponry:recipes/combat/generated/upgrade/iron_throwing_axe": {
-    "criteria": {
-      "has_iron_block": "2025-06-14 06:19:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2025-06-14 06:00:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-06-14 07:07:14 +0000"
     },
     "done": true
   },
@@ -3531,99 +3456,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-06-14 05:43:11 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/misc/vanilla/upgrade/iron_helmet": {
-    "criteria": {
-      "has_iron_block": "2025-06-14 06:19:21 +0000"
-    },
-    "done": true
-  },
-  "l2weaponry:recipes/combat/generated/upgrade/iron_claw": {
-    "criteria": {
-      "has_iron_block": "2025-06-14 06:19:21 +0000"
-    },
-    "done": true
-  },
-  "l2weaponry:recipes/combat/generated/upgrade/iron_machete": {
-    "criteria": {
-      "has_iron_block": "2025-06-14 06:19:21 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-06-14 05:43:11 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/tuff_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-06-14 05:43:11 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cave_map": {
-    "criteria": {
-      "cave_map": "2025-06-14 06:43:02 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/ash_brick": {
-    "criteria": {
-      "forge:ash": "2025-06-14 05:56:49 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/misc/vanilla/upgrade/iron_axe": {
-    "criteria": {
-      "has_iron_block": "2025-06-14 06:19:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-06-14 07:07:14 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-06-14 05:43:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-06-14 07:07:14 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_asurine_brick_stairs_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-06-14 05:27:45 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/flute": {
-    "criteria": {
-      "has_bamboo": "2025-06-14 07:05:07 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-06-14 05:43:11 +0000"
-    },
-    "done": true
-  },
-  "cnc:gooseadvancement": {
-    "criteria": {
-      "gooseadvancement_0": "2025-06-14 06:58:27 +0000"
     },
     "done": true
   },
@@ -3633,45 +3468,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/cave_codex": {
-    "criteria": {
-      "cave_codex": "2025-06-14 06:39:35 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_asurine_wall_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-06-14 05:27:45 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-06-14 05:43:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2025-06-14 06:19:21 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/misc/vanilla/upgrade/iron_leggings": {
-    "criteria": {
-      "has_iron_block": "2025-06-14 06:19:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-06-14 07:07:14 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/misc/vanilla/upgrade/iron_pickaxe": {
-    "criteria": {
-      "has_iron_block": "2025-06-14 06:19:21 +0000"
     },
     "done": true
   },
@@ -3681,33 +3480,9 @@
     },
     "done": true
   },
-  "l2weaponry:recipes/enchantments/enchantments/heavy": {
-    "criteria": {
-      "has_anvil": "2025-06-14 06:19:27 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/misc/vanilla/upgrade/iron_sword": {
-    "criteria": {
-      "has_iron_block": "2025-06-14 06:19:21 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-06-14 05:43:11 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/asurine_pillar_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-06-14 05:27:45 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-06-14 05:43:11 +0000"
     },
     "done": true
   },
@@ -3735,81 +3510,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
-    "criteria": {
-      "has_gold_nugget": "2025-06-14 06:00:38 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/layered_tuff_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-06-14 05:43:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/trapped_chest": {
-    "criteria": {
-      "has_tripwire_hook": "2025-06-14 07:09:46 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_asurine_brick_slab_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-06-14 05:27:45 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-06-14 05:43:11 +0000"
-    },
-    "done": true
-  },
-  "l2weaponry:recipes/combat/generated/upgrade/iron_battle_axe": {
-    "criteria": {
-      "has_iron_block": "2025-06-14 06:19:21 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/tuff_pillar_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-06-14 05:43:11 +0000"
-    },
-    "done": true
-  },
-  "l2weaponry:recipes/combat/generated/upgrade/iron_round_shield": {
-    "criteria": {
-      "has_iron_block": "2025-06-14 06:19:21 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-06-14 05:43:11 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_asurine_wall_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-06-14 05:27:45 +0000"
-    },
-    "done": true
-  },
-  "l2weaponry:recipes/combat/generated/upgrade/iron_scythe": {
-    "criteria": {
-      "has_iron_block": "2025-06-14 06:19:21 +0000"
-    },
-    "done": true
-  },
-  "l2weaponry:recipes/combat/generated/upgrade/iron_hammer": {
-    "criteria": {
-      "has_iron_block": "2025-06-14 06:19:21 +0000"
-    },
-    "done": true
-  },
-  "cnc:elkadvancement": {
-    "criteria": {
-      "elkadvancement_0": "2025-06-14 06:51:48 +0000"
     },
     "done": true
   },
@@ -3825,54 +3534,6 @@
     },
     "done": true
   },
-  "l2weaponry:recipes/combat/generated/upgrade/iron_javelin": {
-    "criteria": {
-      "has_iron_block": "2025-06-14 06:19:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
-    "criteria": {
-      "has_wild_armor_trim_smithing_template": "2025-06-14 07:08:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-06-14 07:08:05 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/dispenser_minecart": {
-    "criteria": {
-      "has_dispenser": "2025-06-14 07:08:36 +0000"
-    },
-    "done": true
-  },
-  "cnc:wendigoadvancement": {
-    "criteria": {
-      "wendigoadvancement_0": "2025-06-14 07:20:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-06-14 07:07:14 +0000"
-    },
-    "done": true
-  },
-  "l2weaponry:recipes/combat/generated/upgrade/iron_nunchaku": {
-    "criteria": {
-      "has_iron_block": "2025-06-14 06:19:21 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-06-14 05:43:11 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_asurine_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-06-14 05:27:45 +0000"
@@ -3885,27 +3546,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-06-14 05:43:11 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_asurine_brick_stairs_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-06-14 05:27:45 +0000"
-    },
-    "done": true
-  },
-  "cnc:wechugeadvancement": {
-    "criteria": {
-      "wechugeadvancement_0": "2025-06-14 07:18:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/raw_iron": {
-    "criteria": {
-      "has_raw_iron_block": "2025-06-14 05:30:05 +0000"
     },
     "done": true
   },
@@ -3915,27 +3558,267 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/stick_from_bamboo_item": {
+  "minecraft:recipes/misc/raw_iron": {
     "criteria": {
-      "has_bamboo": "2025-06-14 07:05:07 +0000"
+      "has_raw_iron_block": "2025-06-14 05:30:05 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bamboo_block": {
+  "more_enchantments:auto_smelt_advancement": {
     "criteria": {
-      "has_bamboo": "2025-06-14 07:05:07 +0000"
+      "auto_smelt_advancement_0": "2025-06-14 05:42:51 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+  "create:recipes/building_blocks/cut_tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
-      "has_mossy_cobblestone": "2025-06-14 07:07:14 +0000"
+      "has_stone_types_tuff": "2025-06-14 05:43:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-06-14 05:43:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-06-14 05:43:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-06-14 05:43:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-06-14 05:43:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-06-14 05:43:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-06-14 05:43:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-06-14 05:43:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-06-14 05:43:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-06-14 05:43:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-06-14 05:43:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-06-14 05:43:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-06-14 05:43:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_pillar_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-06-14 05:43:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-06-14 05:43:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-06-14 05:43:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-06-14 05:43:11 +0000"
     },
     "done": true
   },
   "create:recipes/building_blocks/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-06-14 05:43:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-06-14 05:43:11 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/ash_brick": {
+    "criteria": {
+      "forge:ash": "2025-06-14 05:56:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-14 06:00:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-14 06:00:38 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/iron_chestplate": {
+    "criteria": {
+      "has_iron_block": "2025-06-14 06:19:21 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/iron_plate_shield": {
+    "criteria": {
+      "has_iron_block": "2025-06-14 06:19:21 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/iron_boots": {
+    "criteria": {
+      "has_iron_block": "2025-06-14 06:19:21 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/iron_spear": {
+    "criteria": {
+      "has_iron_block": "2025-06-14 06:19:21 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/iron_shovel": {
+    "criteria": {
+      "has_iron_block": "2025-06-14 06:19:21 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/iron_throwing_axe": {
+    "criteria": {
+      "has_iron_block": "2025-06-14 06:19:21 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/iron_helmet": {
+    "criteria": {
+      "has_iron_block": "2025-06-14 06:19:21 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/iron_claw": {
+    "criteria": {
+      "has_iron_block": "2025-06-14 06:19:21 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/iron_machete": {
+    "criteria": {
+      "has_iron_block": "2025-06-14 06:19:21 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/iron_axe": {
+    "criteria": {
+      "has_iron_block": "2025-06-14 06:19:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-06-14 06:19:21 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/iron_leggings": {
+    "criteria": {
+      "has_iron_block": "2025-06-14 06:19:21 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/iron_pickaxe": {
+    "criteria": {
+      "has_iron_block": "2025-06-14 06:19:21 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/iron_sword": {
+    "criteria": {
+      "has_iron_block": "2025-06-14 06:19:21 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/iron_battle_axe": {
+    "criteria": {
+      "has_iron_block": "2025-06-14 06:19:21 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/iron_round_shield": {
+    "criteria": {
+      "has_iron_block": "2025-06-14 06:19:21 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/iron_scythe": {
+    "criteria": {
+      "has_iron_block": "2025-06-14 06:19:21 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/iron_hammer": {
+    "criteria": {
+      "has_iron_block": "2025-06-14 06:19:21 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/iron_javelin": {
+    "criteria": {
+      "has_iron_block": "2025-06-14 06:19:21 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/iron_nunchaku": {
+    "criteria": {
+      "has_iron_block": "2025-06-14 06:19:21 +0000"
     },
     "done": true
   },
@@ -3957,21 +3840,183 @@
     },
     "done": true
   },
+  "l2weaponry:recipes/enchantments/enchantments/heavy_shield": {
+    "criteria": {
+      "has_anvil": "2025-06-14 06:19:27 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/enchantments/enchantments/heavy": {
+    "criteria": {
+      "has_anvil": "2025-06-14 06:19:27 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_codex": {
+    "criteria": {
+      "cave_codex": "2025-06-14 06:39:35 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_map": {
+    "criteria": {
+      "cave_map": "2025-06-14 06:43:02 +0000"
+    },
+    "done": true
+  },
+  "cnc:timberwolfadvancement": {
+    "criteria": {
+      "timberwolfadvancement_0": "2025-06-14 06:49:46 +0000"
+    },
+    "done": true
+  },
+  "cnc:elkadvancement": {
+    "criteria": {
+      "elkadvancement_0": "2025-06-14 06:51:48 +0000"
+    },
+    "done": true
+  },
+  "cnc:gooseadvancement": {
+    "criteria": {
+      "gooseadvancement_0": "2025-06-14 06:58:27 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flute": {
+    "criteria": {
+      "has_bamboo": "2025-06-14 07:05:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-06-14 07:05:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-06-14 07:05:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2025-06-14 07:05:07 +0000"
     },
     "done": true
   },
-  "more_enchantments:auto_smelt_advancement": {
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
-      "auto_smelt_advancement_0": "2025-06-14 05:42:51 +0000"
+      "has_mossy_cobblestone": "2025-06-14 07:07:14 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
-      "has_stone_types_tuff": "2025-06-14 05:43:11 +0000"
+      "has_mossy_cobblestone": "2025-06-14 07:07:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-14 07:07:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-14 07:07:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-14 07:07:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-14 07:07:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_wild_armor_trim_smithing_template": "2025-06-14 07:08:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-06-14 07:08:05 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/dispenser_minecart": {
+    "criteria": {
+      "has_dispenser": "2025-06-14 07:08:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-06-14 07:09:46 +0000"
+    },
+    "done": true
+  },
+  "cnc:wechugeadvancement": {
+    "criteria": {
+      "wechugeadvancement_0": "2025-06-14 07:18:00 +0000"
+    },
+    "done": true
+  },
+  "cnc:wendigoadvancement": {
+    "criteria": {
+      "wendigoadvancement_0": "2025-06-14 07:20:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-06-15 21:22:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-06-15 21:29:56 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/chicken": {
+    "criteria": {
+      "has_chicken": "2025-06-15 21:22:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-06-15 21:29:56 +0000"
+    },
+    "done": true
+  },
+  "cnc:venomous_snakeadvancement": {
+    "criteria": {
+      "venomous_snakeadvancement_0": "2025-06-15 21:25:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-06-15 21:22:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-06-15 21:22:07 +0000"
     },
     "done": true
   },
