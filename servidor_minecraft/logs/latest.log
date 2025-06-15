@@ -364,3 +364,22 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [15Jun2025 19:13:38.960] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Tabares10]
 [15Jun2025 19:24:42.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 was shot by Thalassoger
 [15Jun2025 19:24:46.685] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Tabares10]
+[15Jun2025 19:45:32.772] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/20679, l='ServerLevel[world]', x=-1089.65, y=68.58, z=1806.37] died, message: 'Villager was slain by Vindicator'
+[15Jun2025 19:45:39.721] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/20680, l='ServerLevel[world]', x=-1097.25, y=68.00, z=1790.77] died, message: 'Villager was slain by Vindicator'
+[15Jun2025 19:47:38.523] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tabares10 lost connection: Disconnected
+[15Jun2025 19:47:38.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 left the game
+[15Jun2025 19:47:38.523] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d7a72fca-ece1-35f7-966f-e3be2ae0c5b0 was unloaded
+[15Jun2025 19:47:38.525] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Tabares10
+[15Jun2025 19:48:39.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[15Jun2025 19:48:39.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[15Jun2025 19:48:39.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[15Jun2025 19:48:39.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[15Jun2025 19:48:39.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15Jun2025 19:48:39.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[15Jun2025 19:48:39.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15Jun2025 19:48:39.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15Jun2025 19:48:39.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15Jun2025 19:48:39.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[15Jun2025 19:48:39.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15Jun2025 19:48:39.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15Jun2025 19:48:39.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
