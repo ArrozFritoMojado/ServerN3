@@ -7467,3 +7467,7 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [15Jun2025 22:16:45.685] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of Tabares10: {disabled=false, disconnected=false, uuid=d7a72fca-ece1-35f7-966f-e3be2ae0c5b0, name=Tabares10, group=ff7294e1-1a31-446c-be5e-2a8b5ea36fa3}
 [15Jun2025 22:17:09.179] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [15Jun2025 22:17:09.189] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 22:22:09.175] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 22:22:09.185] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 22:27:09.177] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 22:27:09.186] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
