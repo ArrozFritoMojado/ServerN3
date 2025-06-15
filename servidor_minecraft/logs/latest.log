@@ -360,3 +360,7 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [15Jun2025 19:08:52.860] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Tabares10) moved wrongly! 0.7406542914432066
 [15Jun2025 19:08:52.900] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Tabares10) moved wrongly! 1.1622700354696462
 [15Jun2025 19:10:08.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 has made the advancement [Who is Cutting Onions?]
+[15Jun2025 19:13:28.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 was slain by Vindicator
+[15Jun2025 19:13:38.960] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Tabares10]
+[15Jun2025 19:24:42.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 was shot by Thalassoger
+[15Jun2025 19:24:46.685] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Tabares10]

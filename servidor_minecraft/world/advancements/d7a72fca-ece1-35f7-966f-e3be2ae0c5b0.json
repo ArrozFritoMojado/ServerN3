@@ -454,7 +454,8 @@
       "cooked_porkchop": "2025-06-13 03:17:23 +0000",
       "cooked_mutton": "2025-06-14 04:47:26 +0000",
       "baked_potato": "2025-06-14 19:59:57 +0000",
-      "bread": "2025-06-13 15:54:59 +0000"
+      "bread": "2025-06-13 15:54:59 +0000",
+      "carrot": "2025-06-15 19:25:48 +0000"
     },
     "done": false
   },
@@ -1578,6 +1579,7 @@
   },
   "adorabuild_structures:tireless_legs": {
     "criteria": {
+      "prison_small_1": "2025-06-15 19:24:08 +0000",
       "acacia_house_medium_1": "2025-06-14 19:08:48 +0000",
       "jungle_house_small_1": "2025-06-14 07:04:52 +0000",
       "oak_tree_1": "2025-06-14 04:13:41 +0000",
@@ -3167,8 +3169,11 @@
     "criteria": {
       "minecraft:pillager": "2025-06-14 04:08:27 +0000",
       "minecraft:skeleton": "2025-06-14 04:27:26 +0000",
+      "minecraft:ravager": "2025-06-15 19:23:11 +0000",
+      "minecraft:vindicator": "2025-06-15 19:17:26 +0000",
       "minecraft:spider": "2025-06-14 06:46:51 +0000",
       "minecraft:creeper": "2025-06-14 05:27:28 +0000",
+      "minecraft:witch": "2025-06-15 19:31:18 +0000",
       "minecraft:cave_spider": "2025-06-14 20:45:33 +0000",
       "minecraft:zombie": "2025-06-14 06:04:23 +0000",
       "minecraft:drowned": "2025-06-14 21:00:37 +0000"
@@ -4945,9 +4950,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-06-15 19:28:52 +0000"
+    },
+    "done": true
+  },
   "l2complements:recipes/burnt/burnt/chicken": {
     "criteria": {
       "has_chicken": "2025-06-15 18:51:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-15 19:29:00 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_jungle": {
+    "criteria": {
+      "has_the_recipe": "2025-06-15 19:29:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-15 19:29:00 +0000"
     },
     "done": true
   },
@@ -4960,6 +4989,42 @@
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-06-15 19:02:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-06-15 19:29:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-06-15 19:29:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-06-15 19:29:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/jungle_window": {
+    "criteria": {
+      "has_ingredient": "2025-06-15 19:29:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-06-15 19:29:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-06-15 19:10:08 +0000"
     },
     "done": true
   },
@@ -4981,15 +5046,57 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/sign_post_jungle": {
+    "criteria": {
+      "has_item": "2025-06-15 19:29:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-06-15 19:29:00 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/enchantments/stable_body": {
+    "criteria": {
+      "has_crying_obsidian": "2025-06-15 19:10:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-15 19:29:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2025-06-15 19:02:52 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-06-15 19:28:52 +0000"
+    },
+    "done": true
+  },
   "l2complements:recipes/burnt/burnt/salmon": {
     "criteria": {
       "has_salmon": "2025-06-15 19:02:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-06-15 19:10:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-15 19:29:00 +0000"
     },
     "done": true
   },
