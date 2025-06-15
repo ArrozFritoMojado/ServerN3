@@ -410,3 +410,27 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [15Jun2025 22:49:03.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 left the game
 [15Jun2025 22:49:03.659] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d7a72fca-ece1-35f7-966f-e3be2ae0c5b0 was unloaded
 [15Jun2025 22:49:03.659] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Tabares10
+[15Jun2025 22:57:37.268] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: El_Vxrgas[/100.124.198.18:64661] logged in with entity id 13626 at (-1811.699999988079, 77.0, 2392.520117682547)
+[15Jun2025 22:57:37.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vxrgas joined the game
+[15Jun2025 22:57:37.903] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of El_Vxrgas (18)
+[15Jun2025 22:57:37.904] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to El_Vxrgas
+[15Jun2025 22:57:37.904] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 was loaded
+[15Jun2025 22:57:37.904] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [El_Vxrgas]
+[15Jun2025 22:57:41.956] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7
+[15Jun2025 22:57:42.957] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7
+[15Jun2025 22:57:42.958] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player El_Vxrgas (ac4208ce-ee9f-3f5d-aeab-85e9718b53a7) successfully connected to voice chat
+[15Jun2025 22:58:58.524] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tabares10[/100.104.164.80:56179] logged in with entity id 14241 at (-1926.237681727853, 66.0625, 2372.872490017201)
+[15Jun2025 22:58:58.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 joined the game
+[15Jun2025 22:58:59.590] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Tabares10 (18)
+[15Jun2025 22:58:59.590] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Tabares10
+[15Jun2025 22:58:59.713] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d7a72fca-ece1-35f7-966f-e3be2ae0c5b0 was loaded
+[15Jun2025 22:58:59.714] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Tabares10]
+[15Jun2025 22:59:10.858] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d7a72fca-ece1-35f7-966f-e3be2ae0c5b0
+[15Jun2025 22:59:11.665] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d7a72fca-ece1-35f7-966f-e3be2ae0c5b0
+[15Jun2025 22:59:11.665] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Tabares10 (d7a72fca-ece1-35f7-966f-e3be2ae0c5b0) successfully connected to voice chat
+[15Jun2025 22:59:47.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tabares10> entre al gru´po
+[15Jun2025 23:06:32.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vxrgas has made the advancement [Bear Necessities]
+[15Jun2025 23:06:43.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vxrgas has made the advancement [Friend-shaped]
+[15Jun2025 23:10:11.897] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of El_Vxrgas) moved wrongly! 0.3092673921628375
+[15Jun2025 23:10:11.943] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of El_Vxrgas) moved wrongly! 0.6263307523952335
+[15Jun2025 23:10:11.999] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of El_Vxrgas) moved wrongly! 0.945033956431871
