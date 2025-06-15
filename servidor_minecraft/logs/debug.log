@@ -7475,3 +7475,12 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [15Jun2025 22:32:09.183] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [15Jun2025 22:37:09.174] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [15Jun2025 22:37:09.184] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 22:42:09.173] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 22:42:09.183] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 22:47:09.174] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 22:47:09.183] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 22:49:03.658] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tabares10 lost connection: Disconnected
+[15Jun2025 22:49:03.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 left the game
+[15Jun2025 22:49:03.659] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d7a72fca-ece1-35f7-966f-e3be2ae0c5b0 was unloaded
+[15Jun2025 22:49:03.659] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Tabares10
+[15Jun2025 22:49:03.659] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Tabares10

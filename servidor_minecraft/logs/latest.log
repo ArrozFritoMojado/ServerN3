@@ -406,3 +406,7 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [15Jun2025 21:57:13.208] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d7a72fca-ece1-35f7-966f-e3be2ae0c5b0
 [15Jun2025 21:57:14.567] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d7a72fca-ece1-35f7-966f-e3be2ae0c5b0
 [15Jun2025 21:57:14.568] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Tabares10 (d7a72fca-ece1-35f7-966f-e3be2ae0c5b0) successfully connected to voice chat
+[15Jun2025 22:49:03.658] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tabares10 lost connection: Disconnected
+[15Jun2025 22:49:03.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 left the game
+[15Jun2025 22:49:03.659] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d7a72fca-ece1-35f7-966f-e3be2ae0c5b0 was unloaded
+[15Jun2025 22:49:03.659] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Tabares10
