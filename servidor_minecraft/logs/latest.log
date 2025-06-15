@@ -460,3 +460,5 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [15Jun2025 23:26:52.477] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
 [15Jun2025 23:26:52.478] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id twilightforest:tiny_bird
 [15Jun2025 23:29:55.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vxrgas has made the advancement [Cover Me with Diamonds]
+[15Jun2025 23:33:26.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 has made the advancement [Cover Me with Diamonds]
+[15Jun2025 23:33:27.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vxrgas has made the advancement [Crafting a New Look]

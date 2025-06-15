@@ -7932,3 +7932,13 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [15Jun2025 23:29:55.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vxrgas has made the advancement [Cover Me with Diamonds]
 [15Jun2025 23:32:11.881] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [15Jun2025 23:32:11.890] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 23:32:49.841] [Server thread/DEBUG] [mixin/]: Mixing ArmorTrimMixin from create.mixins.json into net.minecraft.world.item.armortrim.ArmorTrim
+[15Jun2025 23:32:49.841] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$new$0(Ljava/lang/Boolean;Lnet/minecraft/world/item/ArmorMaterial;)Lnet/minecraft/resources/ResourceLocation; to mdc103ff$lambda$new$0$0 in create.mixins.json:ArmorTrimMixin
+[15Jun2025 23:33:26.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 has made the advancement [Cover Me with Diamonds]
+[15Jun2025 23:33:27.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vxrgas has made the advancement [Crafting a New Look]
+[15Jun2025 23:37:11.883] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 23:37:11.892] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 23:41:58.796] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Tabares10: {disabled=true, disconnected=false, uuid=d7a72fca-ece1-35f7-966f-e3be2ae0c5b0, name=Tabares10, group=1b615d7c-9d3a-4528-bb26-111167aa5787}
+[15Jun2025 23:41:59.375] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Tabares10: {disabled=false, disconnected=false, uuid=d7a72fca-ece1-35f7-966f-e3be2ae0c5b0, name=Tabares10, group=1b615d7c-9d3a-4528-bb26-111167aa5787}
+[15Jun2025 23:42:11.885] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 23:42:11.893] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
