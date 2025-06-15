@@ -434,3 +434,29 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [15Jun2025 23:10:11.897] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of El_Vxrgas) moved wrongly! 0.3092673921628375
 [15Jun2025 23:10:11.943] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of El_Vxrgas) moved wrongly! 0.6263307523952335
 [15Jun2025 23:10:11.999] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of El_Vxrgas) moved wrongly! 0.945033956431871
+[15Jun2025 23:12:43.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vxrgas has made the advancement [We Need to Go Deeper]
+[15Jun2025 23:12:44.659] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [El_Vxrgas]
+[15Jun2025 23:12:44.662] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2705ms or 54 ticks behind
+[15Jun2025 23:12:46.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 has made the advancement [We Need to Go Deeper]
+[15Jun2025 23:12:46.439] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Tabares10]
+[15Jun2025 23:14:01.936] [Worker-Main-122/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:basalt_chambers/chambers
+[15Jun2025 23:14:01.937] [Worker-Main-122/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:basalt_chambers/chambers
+[15Jun2025 23:14:01.937] [Worker-Main-122/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:basalt_chambers/chambers
+[15Jun2025 23:14:01.937] [Worker-Main-122/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:basalt_chambers/chambers
+[15Jun2025 23:14:01.937] [Worker-Main-122/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:basalt_chambers/chambers
+[15Jun2025 23:14:01.939] [Worker-Main-122/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:basalt_chambers/chambers
+[15Jun2025 23:14:01.939] [Worker-Main-122/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:basalt_chambers/chambers
+[15Jun2025 23:14:01.940] [Worker-Main-122/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:basalt_chambers/chambers
+[15Jun2025 23:14:01.940] [Worker-Main-122/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:basalt_chambers/chambers
+[15Jun2025 23:14:01.941] [Worker-Main-122/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:basalt_chambers/chambers
+[15Jun2025 23:14:36.268] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [El_Vxrgas]
+[15Jun2025 23:14:37.962] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Tabares10]
+[15Jun2025 23:24:21.004] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Tabares10) moved wrongly! 0.2710126346460697
+[15Jun2025 23:24:21.060] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Tabares10) moved wrongly! 0.49967455562432406
+[15Jun2025 23:26:44.920] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id twilightforest:tiny_bird
+[15Jun2025 23:26:44.920] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Jun2025 23:26:49.982] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Jun2025 23:26:49.982] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id twilightforest:tiny_bird
+[15Jun2025 23:26:52.477] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Jun2025 23:26:52.478] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id twilightforest:tiny_bird
+[15Jun2025 23:29:55.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vxrgas has made the advancement [Cover Me with Diamonds]

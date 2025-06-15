@@ -44,6 +44,7 @@
       "minecraft:mangrove_swamp": "2025-06-14 20:19:32 +0000",
       "minecraft:sparse_jungle": "2025-06-14 07:02:54 +0000",
       "minecraft:river": "2025-06-13 03:29:11 +0000",
+      "minecraft:stony_shore": "2025-06-15 23:20:34 +0000",
       "minecraft:dripstone_caves": "2025-06-14 04:44:56 +0000",
       "minecraft:forest": "2025-06-13 05:06:56 +0000",
       "minecraft:jungle": "2025-06-14 19:05:32 +0000",
@@ -2341,7 +2342,8 @@
     "criteria": {
       "orangutan": "2025-06-14 07:06:47 +0000",
       "giraffe": "2025-06-14 19:10:58 +0000",
-      "beaver": "2025-06-13 15:56:43 +0000"
+      "beaver": "2025-06-13 15:56:43 +0000",
+      "red_panda": "2025-06-15 23:21:08 +0000"
     },
     "done": false
   },
@@ -5105,6 +5107,72 @@
   "l2complements:recipes/misc/craft/wind_capture_bottle": {
     "criteria": {
       "has_glass_bottle": "2025-06-15 19:44:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2025-06-15 23:12:46 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-06-15 23:13:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-06-15 23:13:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-06-15 23:13:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-06-15 23:13:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-06-15 23:13:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-06-15 23:12:46 +0000"
+    },
+    "done": true
+  },
+  "adorabuild_structures:nether_structures": {
+    "criteria": {
+      "example": "2025-06-15 23:12:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-06-15 23:13:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-06-15 23:13:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-06-15 23:12:46 +0000"
     },
     "done": true
   },

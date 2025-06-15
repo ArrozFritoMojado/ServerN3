@@ -4020,15 +4020,225 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-06-15 23:10:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2025-06-15 23:12:44 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_nunchaku": {
+    "criteria": {
+      "has_gold_block": "2025-06-15 23:10:37 +0000"
+    },
+    "done": true
+  },
   "cnc:harmless_snakeadvancement": {
     "criteria": {
       "harmless_snakeadvancement_0": "2025-06-15 23:06:43 +0000"
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-06-15 23:29:55 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_shovel": {
+    "criteria": {
+      "has_gold_block": "2025-06-15 23:10:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-06-15 23:14:07 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_claw": {
+    "criteria": {
+      "has_gold_block": "2025-06-15 23:10:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-06-15 23:14:07 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_spear": {
+    "criteria": {
+      "has_gold_block": "2025-06-15 23:10:37 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_pickaxe": {
+    "criteria": {
+      "has_gold_block": "2025-06-15 23:10:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-06-15 23:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-06-15 23:14:07 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_boots": {
+    "criteria": {
+      "has_gold_block": "2025-06-15 23:10:37 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_machete": {
+    "criteria": {
+      "has_gold_block": "2025-06-15 23:10:37 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_helmet": {
+    "criteria": {
+      "has_gold_block": "2025-06-15 23:10:37 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_throwing_axe": {
+    "criteria": {
+      "has_gold_block": "2025-06-15 23:10:37 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_battle_axe": {
+    "criteria": {
+      "has_gold_block": "2025-06-15 23:10:37 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_dagger": {
+    "criteria": {
+      "has_gold_block": "2025-06-15 23:10:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-06-15 23:12:43 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_plate_shield": {
+    "criteria": {
+      "has_gold_block": "2025-06-15 23:10:37 +0000"
+    },
+    "done": true
+  },
+  "adorabuild_structures:nether_structures": {
+    "criteria": {
+      "example": "2025-06-15 23:12:43 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_axe": {
+    "criteria": {
+      "has_gold_block": "2025-06-15 23:10:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-06-15 23:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-06-15 23:14:07 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_sword": {
+    "criteria": {
+      "has_gold_block": "2025-06-15 23:10:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-06-15 23:12:43 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_chestplate": {
+    "criteria": {
+      "has_gold_block": "2025-06-15 23:10:37 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_round_shield": {
+    "criteria": {
+      "has_gold_block": "2025-06-15 23:10:37 +0000"
+    },
+    "done": true
+  },
+  "alekiships:recipes/crafting/crafting/watercraft_frame_angled": {
+    "criteria": {
+      "has_scaffolding": "2025-06-15 23:21:33 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_javelin": {
+    "criteria": {
+      "has_gold_block": "2025-06-15 23:10:37 +0000"
+    },
+    "done": true
+  },
+  "alekiships:recipes/crafting/crafting/watercraft_frame_flat": {
+    "criteria": {
+      "has_scaffolding": "2025-06-15 23:21:33 +0000"
+    },
+    "done": true
+  },
   "cnc:black_bearadvancement": {
     "criteria": {
       "black_bearadvancement_0": "2025-06-15 23:06:32 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_leggings": {
+    "criteria": {
+      "has_gold_block": "2025-06-15 23:10:37 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_scythe": {
+    "criteria": {
+      "has_gold_block": "2025-06-15 23:10:37 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_hoe": {
+    "criteria": {
+      "has_gold_block": "2025-06-15 23:10:37 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_hammer": {
+    "criteria": {
+      "has_gold_block": "2025-06-15 23:10:37 +0000"
     },
     "done": true
   },
