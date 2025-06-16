@@ -304,6 +304,7 @@
       "cooked_mutton": "2025-06-14 04:15:21 +0000",
       "porkchop": "2025-06-13 03:57:18 +0000",
       "bread": "2025-06-13 04:01:00 +0000",
+      "golden_apple": "2025-06-16 00:22:30 +0000",
       "rotten_flesh": "2025-06-13 03:57:15 +0000",
       "melon_slice": "2025-06-13 04:06:54 +0000"
     },
@@ -4164,6 +4165,12 @@
     },
     "done": true
   },
+  "l2weaponry:recipes/misc/generated/recycle/iron_spear": {
+    "criteria": {
+      "has_iron_spear": "2025-06-16 00:27:01 +0000"
+    },
+    "done": true
+  },
   "l2weaponry:recipes/combat/generated/upgrade/gold_machete": {
     "criteria": {
       "has_gold_block": "2025-06-15 23:10:37 +0000"
@@ -4179,6 +4186,12 @@
   "l2weaponry:recipes/combat/generated/upgrade/gold_throwing_axe": {
     "criteria": {
       "has_gold_block": "2025-06-15 23:10:37 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/misc/generated/recycle/iron_scythe": {
+    "criteria": {
+      "has_iron_scythe": "2025-06-16 00:24:46 +0000"
     },
     "done": true
   },
