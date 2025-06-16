@@ -7964,3 +7964,9 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [16Jun2025 00:27:11.890] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [16Jun2025 00:32:11.879] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [16Jun2025 00:32:11.889] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jun2025 00:37:11.882] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jun2025 00:37:11.891] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jun2025 00:41:54.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 was slain by El_Vxrgas
+[16Jun2025 00:41:56.252] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Tabares10]
+[16Jun2025 00:42:11.883] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jun2025 00:42:11.892] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

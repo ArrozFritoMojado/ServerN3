@@ -4303,6 +4303,12 @@
     },
     "done": true
   },
+  "l2weaponry:recipes/misc/generated/recycle/iron_plate_shield": {
+    "criteria": {
+      "has_iron_plate_shield": "2025-06-16 00:32:27 +0000"
+    },
+    "done": true
+  },
   "l2complements:recipes/misc/vanilla/upgrade/golden_chestplate": {
     "criteria": {
       "has_gold_block": "2025-06-15 23:10:37 +0000"
