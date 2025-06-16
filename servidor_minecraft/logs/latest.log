@@ -342,3 +342,19 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [16Jun2025 18:34:43.736] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: lootintegrations.json
 [16Jun2025 18:34:43.737] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
 [16Jun2025 18:34:43.774] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
+[16Jun2025 18:44:19.061] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tabares10[/100.104.164.80:59501] logged in with entity id 158 at (250.2749679823927, 68.0, 695.4235987455646)
+[16Jun2025 18:44:19.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 joined the game
+[16Jun2025 18:44:23.775] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Tabares10 (18)
+[16Jun2025 18:44:23.778] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Tabares10
+[16Jun2025 18:44:23.779] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d7a72fca-ece1-35f7-966f-e3be2ae0c5b0 was loaded
+[16Jun2025 18:44:23.780] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Tabares10]
+[16Jun2025 18:44:23.813] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4737ms or 94 ticks behind
+[16Jun2025 18:44:26.040] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id twilightforest:tiny_bird
+[16Jun2025 18:44:26.044] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jun2025 18:44:29.945] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d7a72fca-ece1-35f7-966f-e3be2ae0c5b0
+[16Jun2025 18:44:30.934] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d7a72fca-ece1-35f7-966f-e3be2ae0c5b0
+[16Jun2025 18:44:30.937] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Tabares10 (d7a72fca-ece1-35f7-966f-e3be2ae0c5b0) successfully connected to voice chat
+[16Jun2025 18:46:19.982] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tabares10 lost connection: Disconnected
+[16Jun2025 18:46:19.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 left the game
+[16Jun2025 18:46:19.983] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d7a72fca-ece1-35f7-966f-e3be2ae0c5b0 was unloaded
+[16Jun2025 18:46:19.986] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Tabares10

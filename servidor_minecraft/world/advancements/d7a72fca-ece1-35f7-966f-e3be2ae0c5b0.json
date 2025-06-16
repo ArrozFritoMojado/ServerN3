@@ -5117,15 +5117,21 @@
     },
     "done": false
   },
-  "minecraft:story/shiny_gear": {
+  "minecraft:story/enter_the_nether": {
     "criteria": {
-      "diamond_helmet": "2025-06-15 23:33:26 +0000"
+      "entered_nether": "2025-06-15 23:12:46 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/spyglass": {
+  "adorabuild_structures:nether_structures": {
     "criteria": {
-      "has_amethyst_shard": "2025-06-15 23:46:21 +0000"
+      "example": "2025-06-15 23:12:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-06-15 23:12:46 +0000"
     },
     "done": true
   },
@@ -5147,39 +5153,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
-    "criteria": {
-      "has_amethyst_shard": "2025-06-15 23:46:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/tinted_glass": {
-    "criteria": {
-      "has_amethyst_shard": "2025-06-15 23:46:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2025-06-15 23:13:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/nether_brick": {
-    "criteria": {
-      "has_netherrack": "2025-06-15 23:13:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2025-06-15 23:12:46 +0000"
-    },
-    "done": true
-  },
-  "adorabuild_structures:nether_structures": {
-    "criteria": {
-      "example": "2025-06-15 23:12:46 +0000"
     },
     "done": true
   },
@@ -5195,27 +5171,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-06-15 23:13:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-06-15 23:33:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-15 23:46:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-15 23:46:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-15 23:46:21 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/crystal_display": {
     "criteria": {
       "has_amethyst_shard": "2025-06-15 23:46:21 +0000"
     },
     "done": true
   },
-  "minecraft:nether/root": {
+  "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
-      "entered_nether": "2025-06-15 23:12:46 +0000"
+      "has_amethyst_shard": "2025-06-15 23:46:21 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2025-06-16 00:03:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/amethyst_block": {
-    "criteria": {
-      "has_amethyst_shard": "2025-06-15 23:46:21 +0000"
     },
     "done": true
   },
