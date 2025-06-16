@@ -4201,6 +4201,12 @@
     },
     "done": true
   },
+  "l2weaponry:recipes/misc/generated/recycle/iron_round_shield": {
+    "criteria": {
+      "has_iron_round_shield": "2025-06-16 00:47:34 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/veridium_pillar_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-06-15 23:54:03 +0000"

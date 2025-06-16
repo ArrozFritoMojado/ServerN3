@@ -1,2 +1,25 @@
 [16Jun2025 00:41:54.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 was slain by El_Vxrgas
 [16Jun2025 00:41:56.252] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Tabares10]
+[16Jun2025 00:45:47.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 was slain by El_Vxrgas
+[16Jun2025 00:45:49.648] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Tabares10]
+[16Jun2025 00:52:48.859] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: El_Vxrgas lost connection: Disconnected
+[16Jun2025 00:52:48.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vxrgas left the game
+[16Jun2025 00:52:48.860] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 was unloaded
+[16Jun2025 00:52:48.860] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client El_Vxrgas
+[16Jun2025 00:52:52.860] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tabares10 lost connection: Disconnected
+[16Jun2025 00:52:52.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 left the game
+[16Jun2025 00:52:52.861] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d7a72fca-ece1-35f7-966f-e3be2ae0c5b0 was unloaded
+[16Jun2025 00:52:52.861] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Tabares10
+[16Jun2025 00:53:15.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[16Jun2025 00:53:15.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[16Jun2025 00:53:15.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[16Jun2025 00:53:15.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[16Jun2025 00:53:15.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16Jun2025 00:53:15.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16Jun2025 00:53:15.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16Jun2025 00:53:15.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[16Jun2025 00:53:15.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16Jun2025 00:53:15.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16Jun2025 00:53:15.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16Jun2025 00:53:15.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[16Jun2025 00:53:15.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

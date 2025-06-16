@@ -7970,3 +7970,293 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [16Jun2025 00:41:56.252] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Tabares10]
 [16Jun2025 00:42:11.883] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [16Jun2025 00:42:11.892] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jun2025 00:45:47.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 was slain by El_Vxrgas
+[16Jun2025 00:45:49.648] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Tabares10]
+[16Jun2025 00:47:11.886] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jun2025 00:47:11.895] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jun2025 00:52:11.880] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jun2025 00:52:11.889] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jun2025 00:52:48.859] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: El_Vxrgas lost connection: Disconnected
+[16Jun2025 00:52:48.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vxrgas left the game
+[16Jun2025 00:52:48.860] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 was unloaded
+[16Jun2025 00:52:48.860] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of El_Vxrgas
+[16Jun2025 00:52:48.860] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client El_Vxrgas
+[16Jun2025 00:52:48.874] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:48.898] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:48.912] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:48.928] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:48.951] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:48.970] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:48.992] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:49.009] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:49.030] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:49.049] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:49.072] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:49.092] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:49.109] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:49.134] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:49.149] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:49.172] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:49.191] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:49.212] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:49.229] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:49.251] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:49.275] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:49.290] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:49.314] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:49.330] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:49.354] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:49.370] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:49.392] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:49.409] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:49.431] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:49.448] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:49.471] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:49.493] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:49.512] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:49.533] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:49.551] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:49.571] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:49.590] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:49.614] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:49.628] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:49.651] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:49.670] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:49.690] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:49.712] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:49.729] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:49.751] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:49.769] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:49.793] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:49.812] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:49.830] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:49.852] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:49.869] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:49.891] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:49.913] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:49.930] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:49.952] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:49.969] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:49.991] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:50.009] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:50.033] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:50.049] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:50.070] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:50.088] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:50.110] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:50.132] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:50.151] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:50.170] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:50.192] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:50.209] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:51.388] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:51.388] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:51.412] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:51.429] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:51.450] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:51.474] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:51.489] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:51.515] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:51.532] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:51.553] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:51.570] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:51.592] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:51.609] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:51.631] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:51.652] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:51.671] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:51.690] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:51.712] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:51.729] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:51.751] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:51.768] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:51.791] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:51.812] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:51.828] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:51.851] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:51.873] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:51.889] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:51.911] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:51.934] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:51.949] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:51.971] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:51.992] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:52.009] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:52.031] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:52.053] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:52.071] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:52.093] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:52.108] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:52.130] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:52.152] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:52.169] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:52.192] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:52.209] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:52.231] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:52.249] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:52.271] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:52.292] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:52.860] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tabares10 lost connection: Disconnected
+[16Jun2025 00:52:52.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 left the game
+[16Jun2025 00:52:52.861] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d7a72fca-ece1-35f7-966f-e3be2ae0c5b0 was unloaded
+[16Jun2025 00:52:52.861] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Tabares10
+[16Jun2025 00:52:52.861] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Tabares10
+[16Jun2025 00:52:52.898] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player d7a72fca-ece1-35f7-966f-e3be2ae0c5b0 does not have a secret
+[16Jun2025 00:52:54.348] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:54.349] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:54.370] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:54.398] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:54.409] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:54.433] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:54.449] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:54.471] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:54.487] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:54.511] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:54.533] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:54.551] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:54.571] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:54.588] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:54.611] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:54.632] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:54.648] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:54.670] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:54.691] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:54.712] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:54.729] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:54.752] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:54.768] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:54.790] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:54.813] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:54.829] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:54.851] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:54.875] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:54.889] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:54.911] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:54.928] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:54.951] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:54.971] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:54.990] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:55.012] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:55.032] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:55.050] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:55.072] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:55.092] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:55.109] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:55.132] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:55.150] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:55.171] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:55.194] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:55.210] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:55.231] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:55.255] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:55.273] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:55.289] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:55.310] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:55.632] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:55.632] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:55.649] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:55.671] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:55.689] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:55.710] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:55.735] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:55.752] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:55.769] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:55.791] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:55.815] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:55.835] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:55.851] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:55.874] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:55.889] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:55.910] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:55.928] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:55.951] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:55.972] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:55.989] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:56.010] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:56.033] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:56.050] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:56.071] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:56.088] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:56.114] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:56.131] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:56.153] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:56.170] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:56.192] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:56.208] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:56.230] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:56.253] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:56.273] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:56.293] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:56.310] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:56.331] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:56.349] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:56.372] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:56.395] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:56.408] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:56.432] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:56.449] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:56.471] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:56.490] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:56.714] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:56.714] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:56.730] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:56.754] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:56.771] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:56.795] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:56.810] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:57.275] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:57.275] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:57.275] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:57.275] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:57.275] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:57.280] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:57.280] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:57.280] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:57.283] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:57.303] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:57.321] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:57.342] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:57.360] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:57.382] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:57.400] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:57.424] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:57.441] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:57.462] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:57.481] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:57.503] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:57.522] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:57.541] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:57.561] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:57.581] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:57.602] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:57.623] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:57.643] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:57.660] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:52:57.684] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:53:03.976] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 does not have a secret
+[16Jun2025 00:53:15.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[16Jun2025 00:53:15.057] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[16Jun2025 00:53:15.057] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[16Jun2025 00:53:15.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[16Jun2025 00:53:15.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[16Jun2025 00:53:15.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[16Jun2025 00:53:15.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16Jun2025 00:53:15.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16Jun2025 00:53:15.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16Jun2025 00:53:15.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[16Jun2025 00:53:15.291] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jun2025 00:53:15.298] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jun2025 00:53:15.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16Jun2025 00:53:15.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16Jun2025 00:53:15.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16Jun2025 00:53:15.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[16Jun2025 00:53:15.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16Jun2025 00:53:15.314] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[16Jun2025 00:53:15.314] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[16Jun2025 00:53:15.376] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[16Jun2025 00:53:15.376] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[16Jun2025 00:53:15.376] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[16Jun2025 00:53:15.376] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[16Jun2025 00:53:15.417] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for lostcities:lostcity
+[16Jun2025 00:53:15.417] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for lostcities:lostcity
+[16Jun2025 00:53:15.418] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
