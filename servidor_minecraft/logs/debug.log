@@ -6959,3 +6959,11 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [17Jun2025 19:24:05.297] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id twilightforest:tiny_bird
 [17Jun2025 19:26:06.348] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [17Jun2025 19:26:06.366] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jun2025 19:31:06.313] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jun2025 19:31:06.330] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jun2025 19:36:06.308] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jun2025 19:36:06.321] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jun2025 19:41:06.310] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jun2025 19:41:06.323] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jun2025 19:46:06.312] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jun2025 19:46:06.324] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
