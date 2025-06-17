@@ -360,3 +360,20 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [17Jun2025 19:24:05.297] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
 [17Jun2025 19:24:05.297] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id twilightforest:tiny_bird
 [17Jun2025 20:25:47.724] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tabares10 moved too quickly! -6.270626929916517,-5.23363200604248,5.968339484158264
+[17Jun2025 21:53:50.282] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tabares10 lost connection: Disconnected
+[17Jun2025 21:53:50.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tabares10 left the game
+[17Jun2025 21:53:50.286] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d7a72fca-ece1-35f7-966f-e3be2ae0c5b0 was unloaded
+[17Jun2025 21:53:50.292] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Tabares10
+[17Jun2025 21:54:08.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[17Jun2025 21:54:08.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[17Jun2025 21:54:08.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[17Jun2025 21:54:08.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[17Jun2025 21:54:08.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17Jun2025 21:54:09.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17Jun2025 21:54:09.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17Jun2025 21:54:09.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[17Jun2025 21:54:09.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17Jun2025 21:54:09.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17Jun2025 21:54:09.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17Jun2025 21:54:09.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[17Jun2025 21:54:09.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
