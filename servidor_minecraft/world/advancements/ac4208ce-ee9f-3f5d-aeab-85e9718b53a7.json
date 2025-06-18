@@ -4021,39 +4021,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+  "cnc:black_bearadvancement": {
     "criteria": {
-      "has_gold_block": "2025-06-15 23:10:37 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-06-15 23:54:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:soul_sand_valley": "2025-06-15 23:12:44 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/building_blocks/polished_cut_veridium_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-06-15 23:54:03 +0000"
-    },
-    "done": true
-  },
-  "l2weaponry:recipes/combat/generated/upgrade/gold_nunchaku": {
-    "criteria": {
-      "has_gold_block": "2025-06-15 23:10:37 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-06-15 23:54:03 +0000"
+      "black_bearadvancement_0": "2025-06-15 23:06:32 +0000"
     },
     "done": true
   },
@@ -4063,9 +4033,15 @@
     },
     "done": true
   },
-  "minecraft:story/shiny_gear": {
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
-      "diamond_helmet": "2025-06-15 23:29:55 +0000"
+      "has_gold_block": "2025-06-15 23:10:37 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_nunchaku": {
+    "criteria": {
+      "has_gold_block": "2025-06-15 23:10:37 +0000"
     },
     "done": true
   },
@@ -4075,45 +4051,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_veridium_wall_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-06-15 23:54:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite": {
-    "criteria": {
-      "has_quartz": "2025-06-15 23:14:07 +0000"
-    },
-    "done": true
-  },
   "l2weaponry:recipes/combat/generated/upgrade/gold_claw": {
     "criteria": {
       "has_gold_block": "2025-06-15 23:10:37 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-06-15 23:54:03 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-06-15 23:54:03 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_veridium_brick_stairs_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-06-15 23:54:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite": {
-    "criteria": {
-      "has_quartz": "2025-06-15 23:14:07 +0000"
     },
     "done": true
   },
@@ -4129,45 +4069,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/trim_with_any_armor_pattern": {
-    "criteria": {
-      "armor_trimmed_minecraft:wild_armor_trim_smithing_template_smithing_trim": "2025-06-15 23:33:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_block": {
-    "criteria": {
-      "has_quartz": "2025-06-15 23:14:07 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-06-15 23:54:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/comparator": {
-    "criteria": {
-      "has_quartz": "2025-06-15 23:14:07 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_veridium_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-06-15 23:54:03 +0000"
-    },
-    "done": true
-  },
   "l2complements:recipes/misc/vanilla/upgrade/golden_boots": {
     "criteria": {
       "has_gold_block": "2025-06-15 23:10:37 +0000"
-    },
-    "done": true
-  },
-  "l2weaponry:recipes/misc/generated/recycle/iron_spear": {
-    "criteria": {
-      "has_iron_spear": "2025-06-16 00:27:01 +0000"
     },
     "done": true
   },
@@ -4189,21 +4093,213 @@
     },
     "done": true
   },
-  "l2weaponry:recipes/misc/generated/recycle/iron_scythe": {
-    "criteria": {
-      "has_iron_scythe": "2025-06-16 00:24:46 +0000"
-    },
-    "done": true
-  },
   "l2weaponry:recipes/combat/generated/upgrade/gold_battle_axe": {
     "criteria": {
       "has_gold_block": "2025-06-15 23:10:37 +0000"
     },
     "done": true
   },
-  "l2weaponry:recipes/misc/generated/recycle/iron_round_shield": {
+  "l2weaponry:recipes/combat/generated/upgrade/gold_dagger": {
     "criteria": {
-      "has_iron_round_shield": "2025-06-16 00:47:34 +0000"
+      "has_gold_block": "2025-06-15 23:10:37 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_plate_shield": {
+    "criteria": {
+      "has_gold_block": "2025-06-15 23:10:37 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_axe": {
+    "criteria": {
+      "has_gold_block": "2025-06-15 23:10:37 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_sword": {
+    "criteria": {
+      "has_gold_block": "2025-06-15 23:10:37 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_chestplate": {
+    "criteria": {
+      "has_gold_block": "2025-06-15 23:10:37 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_round_shield": {
+    "criteria": {
+      "has_gold_block": "2025-06-15 23:10:37 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_javelin": {
+    "criteria": {
+      "has_gold_block": "2025-06-15 23:10:37 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_leggings": {
+    "criteria": {
+      "has_gold_block": "2025-06-15 23:10:37 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_scythe": {
+    "criteria": {
+      "has_gold_block": "2025-06-15 23:10:37 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_hoe": {
+    "criteria": {
+      "has_gold_block": "2025-06-15 23:10:37 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_hammer": {
+    "criteria": {
+      "has_gold_block": "2025-06-15 23:10:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-06-15 23:12:43 +0000"
+    },
+    "done": true
+  },
+  "adorabuild_structures:nether_structures": {
+    "criteria": {
+      "example": "2025-06-15 23:12:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-06-15 23:12:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2025-06-15 23:12:44 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-06-15 23:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-06-15 23:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-06-15 23:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-06-15 23:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-06-15 23:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-06-15 23:14:07 +0000"
+    },
+    "done": true
+  },
+  "alekiships:recipes/crafting/crafting/watercraft_frame_angled": {
+    "criteria": {
+      "has_scaffolding": "2025-06-15 23:21:33 +0000"
+    },
+    "done": true
+  },
+  "alekiships:recipes/crafting/crafting/watercraft_frame_flat": {
+    "criteria": {
+      "has_scaffolding": "2025-06-15 23:21:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-06-15 23:29:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trim_with_any_armor_pattern": {
+    "criteria": {
+      "armor_trimmed_minecraft:wild_armor_trim_smithing_template_smithing_trim": "2025-06-15 23:33:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-06-15 23:54:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-06-15 23:54:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-06-15 23:54:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-06-15 23:54:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-06-15 23:54:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-06-15 23:54:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_brick_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-06-15 23:54:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-06-15 23:54:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-06-15 23:54:03 +0000"
     },
     "done": true
   },
@@ -4222,12 +4318,6 @@
   "create:recipes/building_blocks/polished_cut_veridium_wall_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-06-15 23:54:03 +0000"
-    },
-    "done": true
-  },
-  "l2weaponry:recipes/combat/generated/upgrade/gold_dagger": {
-    "criteria": {
-      "has_gold_block": "2025-06-15 23:10:37 +0000"
     },
     "done": true
   },
@@ -4255,75 +4345,9 @@
     },
     "done": true
   },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2025-06-15 23:12:43 +0000"
-    },
-    "done": true
-  },
-  "l2weaponry:recipes/combat/generated/upgrade/gold_plate_shield": {
-    "criteria": {
-      "has_gold_block": "2025-06-15 23:10:37 +0000"
-    },
-    "done": true
-  },
-  "adorabuild_structures:nether_structures": {
-    "criteria": {
-      "example": "2025-06-15 23:12:43 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/misc/vanilla/upgrade/golden_axe": {
-    "criteria": {
-      "has_gold_block": "2025-06-15 23:10:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/daylight_detector": {
-    "criteria": {
-      "has_quartz": "2025-06-15 23:14:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/observer": {
-    "criteria": {
-      "has_quartz": "2025-06-15 23:14:07 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/misc/vanilla/upgrade/golden_sword": {
-    "criteria": {
-      "has_gold_block": "2025-06-15 23:10:37 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_veridium_slab_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-06-15 23:54:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2025-06-15 23:12:43 +0000"
-    },
-    "done": true
-  },
-  "l2weaponry:recipes/misc/generated/recycle/iron_plate_shield": {
-    "criteria": {
-      "has_iron_plate_shield": "2025-06-16 00:32:27 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/misc/vanilla/upgrade/golden_chestplate": {
-    "criteria": {
-      "has_gold_block": "2025-06-15 23:10:37 +0000"
-    },
-    "done": true
-  },
-  "l2weaponry:recipes/combat/generated/upgrade/gold_round_shield": {
-    "criteria": {
-      "has_gold_block": "2025-06-15 23:10:37 +0000"
     },
     "done": true
   },
@@ -4339,51 +4363,27 @@
     },
     "done": true
   },
-  "alekiships:recipes/crafting/crafting/watercraft_frame_angled": {
+  "l2weaponry:recipes/misc/generated/recycle/iron_scythe": {
     "criteria": {
-      "has_scaffolding": "2025-06-15 23:21:33 +0000"
+      "has_iron_scythe": "2025-06-16 00:24:46 +0000"
     },
     "done": true
   },
-  "l2weaponry:recipes/combat/generated/upgrade/gold_javelin": {
+  "l2weaponry:recipes/misc/generated/recycle/iron_spear": {
     "criteria": {
-      "has_gold_block": "2025-06-15 23:10:37 +0000"
+      "has_iron_spear": "2025-06-16 00:27:01 +0000"
     },
     "done": true
   },
-  "alekiships:recipes/crafting/crafting/watercraft_frame_flat": {
+  "l2weaponry:recipes/misc/generated/recycle/iron_plate_shield": {
     "criteria": {
-      "has_scaffolding": "2025-06-15 23:21:33 +0000"
+      "has_iron_plate_shield": "2025-06-16 00:32:27 +0000"
     },
     "done": true
   },
-  "cnc:black_bearadvancement": {
+  "l2weaponry:recipes/misc/generated/recycle/iron_round_shield": {
     "criteria": {
-      "black_bearadvancement_0": "2025-06-15 23:06:32 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/misc/vanilla/upgrade/golden_leggings": {
-    "criteria": {
-      "has_gold_block": "2025-06-15 23:10:37 +0000"
-    },
-    "done": true
-  },
-  "l2weaponry:recipes/combat/generated/upgrade/gold_scythe": {
-    "criteria": {
-      "has_gold_block": "2025-06-15 23:10:37 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/misc/vanilla/upgrade/golden_hoe": {
-    "criteria": {
-      "has_gold_block": "2025-06-15 23:10:37 +0000"
-    },
-    "done": true
-  },
-  "l2weaponry:recipes/combat/generated/upgrade/gold_hammer": {
-    "criteria": {
-      "has_gold_block": "2025-06-15 23:10:37 +0000"
+      "has_iron_round_shield": "2025-06-16 00:47:34 +0000"
     },
     "done": true
   },

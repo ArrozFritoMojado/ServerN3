@@ -341,3 +341,25 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [18Jun2025 13:51:49.673] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d7a72fca-ece1-35f7-966f-e3be2ae0c5b0
 [18Jun2025 13:51:50.623] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d7a72fca-ece1-35f7-966f-e3be2ae0c5b0
 [18Jun2025 13:51:50.626] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Tabares10 (d7a72fca-ece1-35f7-966f-e3be2ae0c5b0) successfully connected to voice chat
+[18Jun2025 14:07:59.266] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: El_Vxrgas[/100.124.198.18:49353] logged in with entity id 3388 at (252.17168775942613, 65.0, 692.3605380142488)
+[18Jun2025 14:07:59.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vxrgas joined the game
+[18Jun2025 14:08:03.218] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of El_Vxrgas (18)
+[18Jun2025 14:08:03.219] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to El_Vxrgas
+[18Jun2025 14:08:03.361] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of ac4208ce-ee9f-3f5d-aeab-85e9718b53a7 was loaded
+[18Jun2025 14:08:03.361] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [El_Vxrgas]
+[18Jun2025 14:08:11.291] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7
+[18Jun2025 14:08:12.699] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ac4208ce-ee9f-3f5d-aeab-85e9718b53a7
+[18Jun2025 14:08:12.699] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player El_Vxrgas (ac4208ce-ee9f-3f5d-aeab-85e9718b53a7) successfully connected to voice chat
+[18Jun2025 14:12:54.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <El_Vxrgas> c
+[18Jun2025 14:12:54.650] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Jun2025 14:12:54.650] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id twilightforest:tiny_bird
+[18Jun2025 14:15:52.397] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Toorise[/100.78.227.83:60353] logged in with entity id 4709 at (-1.5, 79.0, -0.5)
+[18Jun2025 14:15:52.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Toorise joined the game
+[18Jun2025 14:15:52.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Toorise has made the advancement [Critters n' Crawlers]
+[18Jun2025 14:15:53.312] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Toorise (18)
+[18Jun2025 14:15:53.312] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Toorise
+[18Jun2025 14:15:53.346] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of b6e438c6-098e-3419-a13d-8ce193f31edb was loaded
+[18Jun2025 14:15:53.347] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Toorise]
+[18Jun2025 14:15:59.212] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b6e438c6-098e-3419-a13d-8ce193f31edb
+[18Jun2025 14:16:00.160] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b6e438c6-098e-3419-a13d-8ce193f31edb
+[18Jun2025 14:16:00.160] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Toorise (b6e438c6-098e-3419-a13d-8ce193f31edb) successfully connected to voice chat
