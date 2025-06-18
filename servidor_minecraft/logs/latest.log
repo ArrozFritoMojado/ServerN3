@@ -363,3 +363,34 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [18Jun2025 14:15:59.212] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b6e438c6-098e-3419-a13d-8ce193f31edb
 [18Jun2025 14:16:00.160] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b6e438c6-098e-3419-a13d-8ce193f31edb
 [18Jun2025 14:16:00.160] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Toorise (b6e438c6-098e-3419-a13d-8ce193f31edb) successfully connected to voice chat
+[18Jun2025 14:18:04.605] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player b6e438c6-098e-3419-a13d-8ce193f31edb timed out
+[18Jun2025 14:18:04.605] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Toorise
+[18Jun2025 14:18:04.606] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Toorise
+[18Jun2025 14:18:22.689] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Toorise lost connection: Timed out
+[18Jun2025 14:18:22.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Toorise left the game
+[18Jun2025 14:18:22.690] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of b6e438c6-098e-3419-a13d-8ce193f31edb was unloaded
+[18Jun2025 14:18:22.692] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Toorise
+[18Jun2025 14:18:22.740] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18Jun2025 14:20:14.142] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Toorise[/100.78.227.83:61478] logged in with entity id 5410 at (-0.699999988079071, 79.0, 2.073507149796059)
+[18Jun2025 14:20:14.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Toorise joined the game
+[18Jun2025 14:20:14.596] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Toorise (18)
+[18Jun2025 14:20:14.596] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Toorise
+[18Jun2025 14:20:14.597] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of b6e438c6-098e-3419-a13d-8ce193f31edb was loaded
+[18Jun2025 14:20:14.597] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Toorise]
+[18Jun2025 14:20:18.802] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b6e438c6-098e-3419-a13d-8ce193f31edb
+[18Jun2025 14:20:19.800] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b6e438c6-098e-3419-a13d-8ce193f31edb
+[18Jun2025 14:20:19.801] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Toorise (b6e438c6-098e-3419-a13d-8ce193f31edb) successfully connected to voice chat
+[18Jun2025 14:21:51.402] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Taokaka[/100.96.180.99:55658] logged in with entity id 5966 at (-27.526084346430448, 72.0, 8.580682202002539)
+[18Jun2025 14:21:51.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Taokaka joined the game
+[18Jun2025 14:21:52.989] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Taokaka (18)
+[18Jun2025 14:21:52.990] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Taokaka
+[18Jun2025 14:21:53.043] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of a83ff7d6-490d-3f17-bd8c-e87b192d7b64 was loaded
+[18Jun2025 14:21:53.043] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Taokaka]
+[18Jun2025 14:22:06.684] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a83ff7d6-490d-3f17-bd8c-e87b192d7b64
+[18Jun2025 14:22:07.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Taokaka suffocated in a wall
+[18Jun2025 14:22:07.686] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a83ff7d6-490d-3f17-bd8c-e87b192d7b64
+[18Jun2025 14:22:07.687] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Taokaka (a83ff7d6-490d-3f17-bd8c-e87b192d7b64) successfully connected to voice chat
+[18Jun2025 14:22:14.540] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Taokaka]
+[18Jun2025 14:22:24.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Toorise> hola
+[18Jun2025 14:24:00.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Toorise has made the advancement [Recrafted Creatures]
+[18Jun2025 14:26:13.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <El_Vxrgas> 235,65,692
